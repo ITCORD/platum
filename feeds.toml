@@ -1,9 +1,0 @@
-[platum_latest]
-title = "플래텀 ─ LATEST NEWS"
-url = "https://platum.kr/"
-entrySelector = "div.post_filter_wrapper div[id='16450614411179494230_wrapper'] div.post.type-post"
-titleSelector = "div.post_header_title.two_third.last h5 a"
-linkSelector = "div.post_header.search div.post_img.static.one_third a"
-contentSelector = "div.post_header_title.two_third.last p"
-imageSelector = "div.post_header.search div.post_img.static.one_third a img"
-waitUntil = "networkidle"

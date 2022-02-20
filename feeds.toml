@@ -67,3 +67,33 @@ linkSelector = "div.post_header_title h5 a"
 contentSelector = "div.post_header.mixed"
 imageSelector = "div.post_img a img"
 waitUntil = "networkidle"
+
+[business]
+title = "플래텀 ─ Business"
+url = "https://platum.kr/business"
+entrySelector = "div.post_wrapper div.post_content_wrapper div.post_header.mixed"
+titleSelector = "div.post_header_title h5 a"
+linkSelector = "div.post_header_title h5 a"
+contentSelector = "div.post_header.mixed"
+imageSelector = "div.post_img a img"
+waitUntil = "networkidle"
+
+[event]
+title = "플래텀 ─ Event"
+url = "https://platum.kr/event"
+entrySelector = "div.post_wrapper div.post_content_wrapper div.post_header.mixed"
+titleSelector = "div.post_header_title h5 a"
+linkSelector = "div.post_header_title h5 a"
+contentSelector = "div.post_header.mixed"
+imageSelector = "div.post_img a img"
+waitUntil = "networkidle"
+
+[blockchain]
+title = "플래텀 ─ Blockchain"
+url = "https://platum.kr/blockchain"
+entrySelector = "div.post_wrapper div.post_content_wrapper div.post_header.mixed"
+titleSelector = "div.post_header_title h5 a"
+linkSelector = "div.post_header_title h5 a"
+contentSelector = "div.post_header.mixed"
+imageSelector = "div.post_img a img"
+waitUntil = "networkidle"

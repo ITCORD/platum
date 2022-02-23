@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 00:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:06:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -921,6 +921,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
@@ -932,6 +934,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
@@ -1057,6 +1061,8 @@
 					<span>
 											<a href="https://platum.kr/business">Business</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -1067,6 +1073,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/business">Business</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
@@ -1389,6 +1397,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -1398,6 +1408,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -2863,13 +2875,15 @@
             <title><![CDATA[코리아스타트업포럼 ‘스타트업 협력의 중심, 생태계 발전의 핵심적인 역할 할 것’ (플래텀 ─ Trends)]]></title>
             <link>https://platum.kr/archives/181368</link>
             <guid>https://platum.kr/archives/181368</guid>
-            <pubDate>Wed, 23 Feb 2022 00:47:46 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 00:47:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
@@ -2881,6 +2895,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
@@ -4853,6 +4869,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/business">Business</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -4862,6 +4880,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/business">Business</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -4984,6 +5004,8 @@
 					<span>
 											<a href="https://platum.kr/business">Business</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -4994,6 +5016,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/business">Business</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
@@ -5596,7 +5620,7 @@
             <title><![CDATA[“시작하는 스타트업이 꼭 알아야할 것” 스타트업 자금조달 세미나 (플래텀 ─ Event)]]></title>
             <link>https://platum.kr/archives/181360</link>
             <guid>https://platum.kr/archives/181360</guid>
-            <pubDate>Wed, 23 Feb 2022 00:48:45 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 00:47:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->

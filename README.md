@@ -1,5 +1,6 @@
 # 플래텀
 https://itcord.github.io/platum/all.xml
+- [Main](https://platum.kr/startup-3): https://itcord.github.io/platum/main.xml
 - [Entrepreneur](https://platum.kr/entrepreneur): https://itcord.github.io/platum/entrepreneur.xml
 - [Startup](https://platum.kr/startup): https://itcord.github.io/platum/startup.xml
 - [Financing](https://platum.kr/investment): https://itcord.github.io/platum/investment.xml

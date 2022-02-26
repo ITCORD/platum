@@ -1,3 +1,13 @@
+[main]
+title = "플래텀 ─ Main"
+url = "https://platum.kr/startup-3"
+entrySelector = "div.post_wrapper div.post_content_wrapper div.post_header.mixed"
+titleSelector = "div.post_header_title h5 a"
+linkSelector = "div.post_header_title h5 a"
+contentSelector = "div.post_header.mixed"
+imageSelector = "div.post_img a img"
+waitUntil = "networkidle"
+
 [entrepreneur]
 title = "플래텀 ─ Entrepreneur"
 url = "https://platum.kr/entrepreneur"

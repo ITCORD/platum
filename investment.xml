@@ -4,7 +4,7 @@
         <title>플래텀 ─ Financing</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 00:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 02:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,7 +398,7 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2022/02/to-640x427.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[‘플레이투게더’ 개발사 해긴, 1,000억 원 규모 보통주 투자 유치]]></title>
+            <title><![CDATA[‘플레이투게더’ 개발사 해긴, 1,000억 원 규모 투자 유치…유니콘 합류]]></title>
             <link>https://platum.kr/archives/181645</link>
             <guid>https://platum.kr/archives/181645</guid>
             <pubDate>Mon, 28 Feb 2022 02:04:06 GMT</pubDate>
@@ -409,6 +409,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -418,10 +420,12 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/181645" title="‘플레이투게더’ 개발사 해긴, 1,000억 원 규모 보통주 투자 유치">‘플레이투게더’ 개발사 해긴, 1,000억 원 규모 보통주 투자 유치</a></h5>
+						      	<h5><a href="https://platum.kr/archives/181645" title="‘플레이투게더’ 개발사 해긴, 1,000억 원 규모 투자 유치…유니콘 합류">‘플레이투게더’ 개발사 해긴, 1,000억 원 규모 투자 유치…유니콘 합류</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2021/09/김-문선_avatar_1632363398-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
@@ -437,7 +441,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/181645">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/02/hh-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/02/play-640x390.jpg" alt="" class="" style="width:640px;height:390px;">
 					    </a>
 				    </div>
 				
@@ -460,7 +464,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/02/hh-1-640x427.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/02/play-640x390.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자동차 MRO 유통 기업 ‘공업사스토어’, 95억 원 규모 시리즈B 투자 유치]]></title>

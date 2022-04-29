@@ -4,7 +4,7 @@
         <title>플래텀 ─ Main</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 06:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,7 +55,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/184924">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/04/20220428_182652-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/04/20220428_182652-2-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -78,7 +78,76 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/04/20220428_182652-640x427.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/04/20220428_182652-2-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컬리, 농식품 스타트업 ‘록야’에 100억원 지분 투자]]></title>
+            <link>https://platum.kr/archives/185094</link>
+            <guid>https://platum.kr/archives/185094</guid>
+            <pubDate>Fri, 29 Apr 2022 06:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/185094" title="컬리, 농식품 스타트업 ‘록야’에 100억원 지분 투자">컬리, 농식품 스타트업 ‘록야’에 100억원 지분 투자</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/xianglai"><span class="gravatar"><img alt="조상래" src="https://platum.kr/wp-content/uploads/2016/12/조상래_avatar_1482440418-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">조상래</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/185094">Posted On 2022/04/29</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/185094">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2019/05/60353010_1529404357195263_8792316212651491328_o-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   마켓컬리 운영사 컬리가 농식품 스타트업인 ‘록야’에 100억원 지분 투자를 했다. 신선식품 유통은 물론 농업 전반의 지속가능한 성장을 이루려는 의도이다. 컬리는 이번 투자를 통해 농산물의 종자부터 신선식품까지 통합적인 농산물 가치사슬(밸류체인)을 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/185094">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/185094#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2019/05/60353010_1529404357195263_8792316212651491328_o-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자란다, 310억 규모 시리즈 B 투자 유치… ‘키즈 슈퍼앱’ 구축한다]]></title>
@@ -635,75 +704,6 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2022/04/278126482_1124440011673137_179716533866067073_n-640x427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[중국 비즈니스 트렌드&동향] 봉쇄된 상하이를 잇는 물류 키워드는 ‘무인 배송차’]]></title>
-            <link>https://platum.kr/archives/184749</link>
-            <guid>https://platum.kr/archives/184749</guid>
-            <pubDate>Tue, 26 Apr 2022 00:57:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/china">China</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup-3">Main</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/china">China</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/startup-3">Main</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/184749" title="[중국 비즈니스 트렌드&amp;동향] 봉쇄된 상하이를 잇는 물류 키워드는 ‘무인 배송차’">[중국 비즈니스 트렌드&amp;동향] 봉쇄된 상하이를 잇는 물류 키워드는 ‘무인 배송차’</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/min3hui4"><span class="gravatar"><img alt="허민혜" src="https://platum.kr/wp-content/uploads/2018/07/민혜-허_avatar_1530625610-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">허민혜</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/184749">Posted On 2022/04/26</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/184749">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/04/xinshiqi-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   상하이 봉쇄에 활약 중인 ‘무인 배송차’&nbsp; 코로나19 확산으로 봉쇄된 상하이에서 무인배송차가 활약하고 있다. 봉쇄 이전까지 상하이에는 10만 명 이상의 배달원들이 즉시배송 서비스를 제공해 왔다. 그러나 19일 공개된 자료에 따르면 현재 상하이에서 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/184749">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/184749#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/04/xinshiqi-640x427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

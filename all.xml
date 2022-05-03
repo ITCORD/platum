@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 22:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 23:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3395,6 +3395,75 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2022/02/cats-25-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[최앤리의 스타트업×법] NFT란 무엇인가 (플래텀 ─ Trends)]]></title>
+            <link>https://platum.kr/archives/185338</link>
+            <guid>https://platum.kr/archives/185338</guid>
+            <pubDate>Tue, 03 May 2022 23:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/blockchain">Blockchain</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/blockchain">Blockchain</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/185338" title="[최앤리의 스타트업×법] NFT란 무엇인가">[최앤리의 스타트업×법] NFT란 무엇인가</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/lawblank"><span class="gravatar"><img alt="최앤리 법률사무소" src="https://platum.kr/wp-content/uploads/2020/08/최앤리-법률사무소_avatar_1597155563-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최앤리 법률사무소</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/185338">Posted On 2022/05/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/185338">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/05/nft-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   최근 블록체인 열풍에 이어 제2의 비트코인이라 불릴 정도로 가장 주목받고 있는 기술인 NFT를 법률적인 관점에서 시리즈로 이야기해보려고 합니다. NFT는 ‘non-fungible token’ 의 약자로, 한국에서는 ‘대체불가능토큰’ 이라는 이름으로 불리기도 합니다. N[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/185338">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/185338#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/05/nft-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버 쇼핑라이브에서 버츄얼 휴먼이 물건을 판다 (플래텀 ─ Trends)]]></title>
             <link>https://platum.kr/archives/185294</link>
             <guid>https://platum.kr/archives/185294</guid>
@@ -4002,75 +4071,6 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2022/04/rnd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹툰 썸네일, 반드시 클릭하는 앱 디자인의 비밀 (플래텀 ─ Trends)]]></title>
-            <link>https://platum.kr/archives/184849</link>
-            <guid>https://platum.kr/archives/184849</guid>
-            <pubDate>Tue, 26 Apr 2022 23:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/trends">Trends</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/startup-3">Main</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/trends">Trends</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/184849" title="웹툰 썸네일, 반드시 클릭하는 앱 디자인의 비밀">웹툰 썸네일, 반드시 클릭하는 앱 디자인의 비밀</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/184849">Posted On 2022/04/27</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/184849">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/04/film-webtoon-poster_size2-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   볼 만한 작품을 고르느라 무한 스크롤링해 본 경험, 한 번쯤 있을 거예요. 작품 탐색은 대체로 즐겁지만 때로 피로감을 주기도 합니다. 그래서 유저의 수고를 덜어주는 앱 디자인이 중요한데요. 완성도 높은 앱 디자인은 UI･UX 디자이너와 데이터 분석가의 긴밀한 협업으로 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/184849">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/184849#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/04/film-webtoon-poster_size2-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업人] 이니, 메이, 라일리, 그레타는 이제 자유예요! (플래텀 ─ Workinsight)]]></title>
@@ -6839,6 +6839,75 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2022/05/2022-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[최앤리의 스타트업×법] NFT란 무엇인가 (플래텀 ─ Blockchain)]]></title>
+            <link>https://platum.kr/archives/185338</link>
+            <guid>https://platum.kr/archives/185338</guid>
+            <pubDate>Tue, 03 May 2022 23:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/blockchain">Blockchain</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/blockchain">Blockchain</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/185338" title="[최앤리의 스타트업×법] NFT란 무엇인가">[최앤리의 스타트업×법] NFT란 무엇인가</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/lawblank"><span class="gravatar"><img alt="최앤리 법률사무소" src="https://platum.kr/wp-content/uploads/2020/08/최앤리-법률사무소_avatar_1597155563-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최앤리 법률사무소</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/185338">Posted On 2022/05/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/185338">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/05/nft-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   최근 블록체인 열풍에 이어 제2의 비트코인이라 불릴 정도로 가장 주목받고 있는 기술인 NFT를 법률적인 관점에서 시리즈로 이야기해보려고 합니다. NFT는 ‘non-fungible token’ 의 약자로, 한국에서는 ‘대체불가능토큰’ 이라는 이름으로 불리기도 합니다. N[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/185338">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/185338#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/05/nft-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이퍼리즘, 웹3 벤처에 1,000억원 투자한다 (플래텀 ─ Blockchain)]]></title>
             <link>https://platum.kr/archives/185253</link>
             <guid>https://platum.kr/archives/185253</guid>
@@ -7454,75 +7523,6 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2022/04/image001-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터 후원 Web 3.0 서비스 운영사 ‘라굿컴퍼니글로벌’, 15억 원 시드 투자 유치 (플래텀 ─ Blockchain)]]></title>
-            <link>https://platum.kr/archives/184132</link>
-            <guid>https://platum.kr/archives/184132</guid>
-            <pubDate>Wed, 13 Apr 2022 00:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/blockchain">Blockchain</a>
-											&nbsp;/
-											<a href="https://platum.kr/investment">Investment</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/blockchain">Blockchain</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/investment">Investment</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/184132" title="크리에이터 후원 Web 3.0 서비스 운영사 ‘라굿컴퍼니글로벌’, 15억 원 시드 투자 유치">크리에이터 후원 Web 3.0 서비스 운영사 ‘라굿컴퍼니글로벌’, 15억 원 시드 투자 유치</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/184132">Posted On 2022/04/13</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/184132">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/04/my-640x190.png" alt="" class="" style="width:640px;height:190px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   크리에이터 후원 Web3.0 팬 커뮤니티 서비스 ‘마이바이어스’를 운영하는 ‘라굿컴퍼니글로벌’이 KB인베스트먼트, 크릿벤처스, 스프링캠프, 콘텐츠테크놀로지스로부터 125만 달러(한화 15억 원) 규모의 시드 투자를 유치했다. 라굿컴퍼니글로벌은 블록[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/184132">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/184132#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/04/my-640x190.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

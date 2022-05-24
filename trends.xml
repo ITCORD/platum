@@ -4,74 +4,9 @@
         <title>플래텀 ─ Trends</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 10:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 11:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[길세영의 스타트업 IP 가이드] #6. 공지예외주장]]></title>
-            <link>https://platum.kr/archives/186292</link>
-            <guid>https://platum.kr/archives/186292</guid>
-            <pubDate>Tue, 24 May 2022 06:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/trends">Trends</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/trends">Trends</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/186292" title="[길세영의 스타트업 IP 가이드] #6. 공지예외주장">[길세영의 스타트업 IP 가이드] #6. 공지예외주장</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/hoseok-jung"><span class="gravatar"><img alt="법무법인 세움" src="https://platum.kr/wp-content/uploads/2019/02/정호석_avatar_1549859856-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 세움</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/186292">Posted On 2022/05/24</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/186292">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/05/idea-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   이미 공개된 발명과 동일하거나 유사한 발명은 특허를 받을 수 없다는 사실은 잘 알려져 있습니다. 설사 자신의 발명이라도 특허출원 전에 발명이 공개되면 특허를 받기 어려워지지만 일부 발명자들은 이 사실을 제대로 알지 못하는 경우가 있습니다. 출원 전에 공개하면 안 되는 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/186292">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/186292#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/05/idea-640x427.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[창업·벤처 생태계, 11년동안 3배 이상 성장]]></title>
             <link>https://platum.kr/archives/186357</link>
@@ -83,8 +18,6 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -94,8 +27,6 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
-					    					        <a href="https://platum.kr/startup-3">Main</a>
-					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
@@ -140,6 +71,75 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2022/05/data.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[길세영의 스타트업 IP 가이드] #6. 공지예외주장]]></title>
+            <link>https://platum.kr/archives/186292</link>
+            <guid>https://platum.kr/archives/186292</guid>
+            <pubDate>Tue, 24 May 2022 06:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/186292" title="[길세영의 스타트업 IP 가이드] #6. 공지예외주장">[길세영의 스타트업 IP 가이드] #6. 공지예외주장</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/hoseok-jung"><span class="gravatar"><img alt="법무법인 세움" src="https://platum.kr/wp-content/uploads/2019/02/정호석_avatar_1549859856-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 세움</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/186292">Posted On 2022/05/24</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/186292">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/05/idea-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   이미 공개된 발명과 동일하거나 유사한 발명은 특허를 받을 수 없다는 사실은 잘 알려져 있습니다. 설사 자신의 발명이라도 특허출원 전에 발명이 공개되면 특허를 받기 어려워지지만 일부 발명자들은 이 사실을 제대로 알지 못하는 경우가 있습니다. 출원 전에 공개하면 안 되는 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/186292">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/186292#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/05/idea-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사용자가 가장 많은 OTT 앱은 넷플릭스, 티빙, 쿠팡플레이, 웨이브 순]]></title>

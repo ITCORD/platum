@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 22:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 23:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3411,6 +3411,71 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2022/03/tusimple-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[기고] “정보 보안은 스타트업 생존 위한 기초 요건” (플래텀 ─ Trends)]]></title>
+            <link>https://platum.kr/archives/186543</link>
+            <guid>https://platum.kr/archives/186543</guid>
+            <pubDate>Thu, 26 May 2022 23:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/186543" title="[기고] “정보 보안은 스타트업 생존 위한 기초 요건”">[기고] “정보 보안은 스타트업 생존 위한 기초 요건”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/186543">Posted On 2022/05/27</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/186543">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/05/kim-500x427.png" alt="" class="" style="width:500px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   “정보 보안은 스타트업 생존 위한 기초 요건” 스타트업 생태계의 성장세가 가파르다. 지난 24일 중소벤처기업부 발표에 따르면 ‘창업·벤처 생태계 종합지수’는 2010년부터 2021년까지 11년 동안 세 배 이상 증가했다고 한다. 스타트업들이 질적, 양적으로 꾸준히 발전[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/186543">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/186543#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/05/kim-500x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[헌법재판소, 변협의 ‘로톡 금지 규정’ 위헌 결정 (플래텀 ─ Trends)]]></title>
             <link>https://platum.kr/archives/186555</link>
             <guid>https://platum.kr/archives/186555</guid>
@@ -4014,79 +4079,6 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2022/05/1212-640x427.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[법무법인 비트 칼럼] 가상자산사업자에 대한 ISMS인증 예비인증제도 도입 (플래텀 ─ Trends)]]></title>
-            <link>https://platum.kr/archives/186236</link>
-            <guid>https://platum.kr/archives/186236</guid>
-            <pubDate>Mon, 23 May 2022 08:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/blockchain">Blockchain</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/trends">Trends</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/blockchain">Blockchain</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/startup-3">Main</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/trends">Trends</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/186236" title="[법무법인 비트 칼럼] 가상자산사업자에 대한 ISMS인증 예비인증제도 도입">[법무법인 비트 칼럼] 가상자산사업자에 대한 ISMS인증 예비인증제도 도입</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/veat"><span class="gravatar"><img alt="법무법인 비트" src="https://platum.kr/wp-content/uploads/2021/09/법무법인-비트_avatar_1630987003-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 비트</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/186236">Posted On 2022/05/23</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/186236">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/05/VEAT-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   암호화폐 거래소를 운영하거나, 암호화폐 월렛서비스, 보관소 등을 운영하는 경우, 이는 「특정 금융거래정보의 보고 및 이용 등에 관한 법률」(이하 “특정금융거래법”) 상의 “가상자산사업자”에 해당하며, 제7조 제1항에 따른 가상자산사업자 신고를 하기 위해서는 「정보보호 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/186236">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/186236#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/05/VEAT-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업人] 이니, 메이, 라일리, 그레타는 이제 자유예요! (플래텀 ─ Workinsight)]]></title>

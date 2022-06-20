@@ -4,7 +4,7 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 17:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 18:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,7 +438,14 @@
 			   
 			   <br class="clear">
 	    	
-	    					   
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/187877">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/06/local-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
 			   	<br class="clear">
 				<!-- 원본 소스 BEGIN -->
 								<!-- 원본 소스 END -->
@@ -457,6 +464,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/06/local-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사업협력·오픈이노베이션의 場 ‘넥스트라이즈 2022, 서울’ 성공적으로 개최]]></title>

@@ -4,7 +4,7 @@
         <title>플래텀 ─ Financing</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -478,6 +478,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -487,6 +489,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -532,7 +536,7 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2022/08/sh-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘벤처투자법 시행령’ 개정으로 바뀐 것]]></title>
+            <title><![CDATA[‘벤처투자법 시행령’ 개정으로 바뀌는 것]]></title>
             <link>https://platum.kr/archives/191207</link>
             <guid>https://platum.kr/archives/191207</guid>
             <pubDate>Tue, 16 Aug 2022 03:41:44 GMT</pubDate>
@@ -543,6 +547,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
@@ -555,11 +561,13 @@
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
 					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/191207" title="‘벤처투자법 시행령’ 개정으로 바뀐 것">‘벤처투자법 시행령’ 개정으로 바뀐 것</a></h5>
+						      	<h5><a href="https://platum.kr/archives/191207" title="‘벤처투자법 시행령’ 개정으로 바뀌는 것">‘벤처투자법 시행령’ 개정으로 바뀌는 것</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
@@ -575,7 +583,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/191207">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2022/08/cats-6-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2021/08/cats-11-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -598,7 +606,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2022/08/cats-6-640x427.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2021/08/cats-11-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폐기물 처리·원료 재생 기업 ‘엘디카본’, 185억 원 시리즈A 투자 유치]]></title>

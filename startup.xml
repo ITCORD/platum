@@ -4,7 +4,7 @@
         <title>플래텀 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -30,6 +32,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
@@ -77,7 +81,7 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2022/11/DSCF0907-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주주(ZUZU), 아웃스탠딩과 손잡고 스타트업 콘텐츠 제공한다]]></title>
+            <title><![CDATA[주주(ZUZU), 아웃스탠딩과 손잡고 스타트업 콘텐츠 제공]]></title>
             <link>https://platum.kr/archives/196942</link>
             <guid>https://platum.kr/archives/196942</guid>
             <pubDate>Thu, 17 Nov 2022 01:03:26 GMT</pubDate>
@@ -100,7 +104,7 @@
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/196942" title="주주(ZUZU), 아웃스탠딩과 손잡고 스타트업 콘텐츠 제공한다">주주(ZUZU), 아웃스탠딩과 손잡고 스타트업 콘텐츠 제공한다</a></h5>
+						      	<h5><a href="https://platum.kr/archives/196942" title="주주(ZUZU), 아웃스탠딩과 손잡고 스타트업 콘텐츠 제공">주주(ZUZU), 아웃스탠딩과 손잡고 스타트업 콘텐츠 제공</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
@@ -282,6 +286,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -291,6 +297,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
 					</div>

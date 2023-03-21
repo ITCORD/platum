@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 17:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 18:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -146,75 +146,6 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2023/03/5-640x427.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[웹툰 키워드로 다시 읽는 로맨스 고전 (플래텀 ─ Main)]]></title>
-            <link>https://platum.kr/archives/203785</link>
-            <guid>https://platum.kr/archives/203785</guid>
-            <pubDate>Tue, 21 Mar 2023 14:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/trends">Trends</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/startup-3">Main</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/trends">Trends</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/203785" title="웹툰 키워드로 다시 읽는 로맨스 고전">웹툰 키워드로 다시 읽는 로맨스 고전</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/203785">Posted On 2023/03/21</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/203785">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2023/03/2-3-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   웹툰 키워드로 다시 읽는 로맨스 고전 200년 전 고전에서 찾은 집착남주? 로맨스, 전통 깊은 장르입니다. 이야기가 구전되던 기원전부터 각종 매체가 등장한 현재까지 닳도록 다뤄도 더 선명해지는 테마가 바로 ‘사랑’이니까요. ‘사랑’을 다루는 레시피에는 정해진 것이 없습[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/203785">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/203785#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2023/03/2-3-640x427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소비자 10명 중 8명 “전문직 서비스 플랫폼에 대한 소비자선택권 보장돼야” (플래텀 ─ Main)]]></title>
             <link>https://platum.kr/archives/203754</link>
             <guid>https://platum.kr/archives/203754</guid>
@@ -282,6 +213,75 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2023/03/unnamed-1-4-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[회계법인 마일스톤의 스타트업 CFO Case Study] 아무 생각 없이 자회사를 설립하면 안 되는 이유 (플래텀 ─ Main)]]></title>
+            <link>https://platum.kr/archives/203714</link>
+            <guid>https://platum.kr/archives/203714</guid>
+            <pubDate>Tue, 21 Mar 2023 14:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/203714" title="[회계법인 마일스톤의 스타트업 CFO Case Study] 아무 생각 없이 자회사를 설립하면 안 되는 이유">[회계법인 마일스톤의 스타트업 CFO Case Study] 아무 생각 없이 자회사를 설립하면 안 되는 이유</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mstacc"><span class="gravatar"><img alt="회계법인 마일스톤" src="https://platum.kr/wp-content/uploads/2021/01/회계법인-마일스톤_avatar_1611281786-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">회계법인 마일스톤</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/203714">Posted On 2023/03/20</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/203714">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2021/01/mile-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   사업의 초기 단계를 지난 스타트업은 여러 이유에서 자회사를 설립합니다. 브랜드별로 법적 실체를 달리하기 위해서, 새로운 사업을 기존 사업과 분리하기 위해서, 기타 법적인 제한으로 등등 자회사가 설립되는 이유는 다양합니다. 당연한 개념이지만 모회사가 출자하여 자회사의 주[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/203714">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/203714#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2021/01/mile-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[英 FT ‘아시아 태평양 고성장 기업’에 선정된 국내 스타트업 (플래텀 ─ Main)]]></title>
@@ -3520,8 +3520,6 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -3531,8 +3529,6 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
-					    					        <a href="https://platum.kr/startup-3">Main</a>
-					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
@@ -3658,6 +3654,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -3667,6 +3665,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>

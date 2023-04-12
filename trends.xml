@@ -4,7 +4,7 @@
         <title>플래텀 ─ Trends</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 00:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 02:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,7 +99,7 @@
 						      	<h5><a href="https://platum.kr/archives/205116" title="[혜움의 스타트업 택스 멘토링] #10 매년 말 확정되는 성적표…법인 경영자가 알아야 할 주요 재무지표들">[혜움의 스타트업 택스 멘토링] #10 매년 말 확정되는 성적표…법인 경영자가 알아야 할 주요 재무지표들</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2020/08/손-요한_avatar_1598679390-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
 										      		</span>
 			      		<span class="post_info_date">
 			      			<a href="https://platum.kr/archives/205116">Posted On 2023/04/12</a>
@@ -278,6 +278,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -287,6 +289,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
@@ -343,6 +347,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -352,6 +358,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
@@ -408,6 +416,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -417,6 +427,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>

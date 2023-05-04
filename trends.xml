@@ -1,8 +1,665 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/trends</id>
-    <title>플래텀 ─ Trends</title>
-    <updated>2023-05-04T20:13:39.874Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Trends</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 04 May 2023 21:12:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[구노하우 61] 스타트업 R&D 성지, TIPS]]></title>
+            <link>https://platum.kr/archives/206410</link>
+            <guid>https://platum.kr/archives/206410</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206410" title="[구노하우 61] 스타트업 R&amp;D 성지, TIPS">[구노하우 61] 스타트업 R&amp;D 성지, TIPS</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206410">Posted On 2023/05/03</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206410">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/61-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   블록체인 기반 연구노트 솔루션 ’구노’를 개발하는 레드윗의 김지원 대표입니다. ‘구노하우’는 많은 스타트업이 겪는 고민에 대한 해결책을 안내해드리는 칼럼입니다. TIPS(팁스)란? TIPS(팁스)는 테크기반의 창업팀을 민간주도로 선발하여 미래유망 창업기업을 집중 육성하[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206410">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206410#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/61-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이음특허의 스타트업 특허 상표] 특허를 꼭 받을 필요가 있을까요?]]></title>
+            <link>https://platum.kr/archives/206400</link>
+            <guid>https://platum.kr/archives/206400</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206400" title="[이음특허의 스타트업 특허 상표] 특허를 꼭 받을 필요가 있을까요?">[이음특허의 스타트업 특허 상표] 특허를 꼭 받을 필요가 있을까요?</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206400">Posted On 2023/05/03</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206400">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/ii-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   작은 습관들이 모여 그 사람의 인생을 만들 듯, 스타트업들은 작은 결정 하나하나가 모여서 결국에는 회사의 성패를 가르게 됩니다. 우리 스타트업들은 무언가를 결정하기에 앞서 항상 최선의 선택이 무엇인지 고민에 빠지게 됩니다. 특히나, 자금이 빠듯한 초기 스타트업들은 예산[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206400">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206400#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/ii-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[800억 원 투입되는 ‘지역혁신 공모사업’ 13개 과제]]></title>
+            <link>https://platum.kr/archives/206337</link>
+            <guid>https://platum.kr/archives/206337</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206337" title="800억 원 투입되는 ‘지역혁신 공모사업’ 13개 과제">800억 원 투입되는 ‘지역혁신 공모사업’ 13개 과제</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206337">Posted On 2023/05/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206337">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/re004-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   중소벤처기업부와 행정안전부가 ‘2023년 지방소멸대응을 위한 지역기업 혁신 공모사업’ 평가 결과, 우수과제 13개(14개 기초자치단체 및 2개 광역자치단체)를 선정했다. 이번 공모는 지방소멸에 효과적으로 대응하고 진정한 지방시대를 구현하기 위해 지자체에서 지역기업 육성[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206337">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206337#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/re004-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“스마트폰 뭐 사지?” 카메라가 중요한 당신을 위한 이미지센서 설명서]]></title>
+            <link>https://platum.kr/archives/206321</link>
+            <guid>https://platum.kr/archives/206321</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206321" title="“스마트폰 뭐 사지?” 카메라가 중요한 당신을 위한 이미지센서 설명서">“스마트폰 뭐 사지?” 카메라가 중요한 당신을 위한 이미지센서 설명서</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206321">Posted On 2023/05/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206321">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/camera-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   카메라: 스마트폰을 고르기 위한 핵심적 가치 스마트폰을 고르는 데에는 소비자 마다 여러 기준이 있을 수 있다. 누구에게는 세련되고 매혹적인 디자인이, 누군가에겐 폴드, 플립과 같은 특이한 폼팩터가, 누구에게는 Retina® 처럼 선명한 디스플레이가, 누군가에겐 저렴한 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206321">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206321#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/camera-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 액셀러레이터 동향을 한눈에 볼 수 있는 리포트 발간]]></title>
+            <link>https://platum.kr/archives/206316</link>
+            <guid>https://platum.kr/archives/206316</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206316" title="국내 액셀러레이터 동향을 한눈에 볼 수 있는 리포트 발간">국내 액셀러레이터 동향을 한눈에 볼 수 있는 리포트 발간</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206316">Posted On 2023/05/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206316">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/cats-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   국내 액셀러레이터 산업의 주요 동향과 전망을 파악하여 산업의 발전 방향과 정책 제안을 목적으로 작성된 ‘2022 대한민국 액셀러레이터 산업리포트’가 발간되었다. 한국액셀러레이터협회가 국내 액셀러레이터 산업의 현황과 전망을 분석한‘2022 대한민국 액셀러레이터 산업분석’[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206316">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206316#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/cats-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김이결의 스타트업 법률가이드 #95] SAFE 계약의 구조 (2)]]></title>
+            <link>https://platum.kr/archives/206305</link>
+            <guid>https://platum.kr/archives/206305</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206305" title="[김이결의 스타트업 법률가이드 #95] SAFE 계약의 구조 (2)">[김이결의 스타트업 법률가이드 #95] SAFE 계약의 구조 (2)</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/hoseok-jung"><span class="gravatar"><img alt="법무법인 세움" src="https://platum.kr/wp-content/uploads/2019/02/정호석_avatar_1549859856-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 세움</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206305">Posted On 2023/05/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206305">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/SAFE-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   SAFE 계약은 후속투자(Equity Financing)가 이뤄지는 시점에 후속투자와 동일한 내용의 주식으로 전환됩니다. 따라서 회사와 투자자는 주식의 내용 등 투자 조건에 관하여 세부적인 협상을 할 필요가 없고 빠르게 투자를 종결할 수 있습니다. 이 때 회사와 투자자[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206305">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206305#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/SAFE-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘굿즈’로 웹툰 덕후의 마음을 뒤흔드는 법]]></title>
+            <link>https://platum.kr/archives/206272</link>
+            <guid>https://platum.kr/archives/206272</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206272" title="‘굿즈’로 웹툰 덕후의 마음을 뒤흔드는 법">‘굿즈’로 웹툰 덕후의 마음을 뒤흔드는 법</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206272">Posted On 2023/05/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206272">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/goods_thumbs-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   소장 욕구를 부르는 굿즈의 세 가지 유형 최근 트위터 실시간 트렌드에 ‘피자박스’가 등장했습니다. 실제 피자 가게 이야기가 아니고, 웹툰 ‘피자배달부와 골드팰리스’의 굿즈 출시 소식이 큰 화제를 불러 모은 것인데요. 일부 품목은 출시 1시간 만에 매진되며 급히 추가 제[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206272">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206272#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/goods_thumbs-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[회계법인 마일스톤의 스타트업 CFO Case Study] 처음 해외 거래가 발생 했을 때 알아야 할 세무 사항]]></title>
+            <link>https://platum.kr/archives/206222</link>
+            <guid>https://platum.kr/archives/206222</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206222" title="[회계법인 마일스톤의 스타트업 CFO Case Study] 처음 해외 거래가 발생 했을 때 알아야 할 세무 사항">[회계법인 마일스톤의 스타트업 CFO Case Study] 처음 해외 거래가 발생 했을 때 알아야 할 세무 사항</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mstacc"><span class="gravatar"><img alt="회계법인 마일스톤" src="https://platum.kr/wp-content/uploads/2021/01/회계법인-마일스톤_avatar_1611281786-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">회계법인 마일스톤</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206222">Posted On 2023/05/01</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206222">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2021/01/mile-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   스타트업을 경영하다 보면 해외에서 매출이 발생하기도 하고 혹은 해외에 물건을 사거나, 서비스를 제공받기도 합니다. 이러한 해외 거래가 처음 발생 했을 때 확인 해 봐야 할 세무 사항들을 정리해 보았습니다. 1. 해외로부터 매출이 발생한 경우 일반적으로 해외에서 매출이 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206222">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206222#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2021/01/mile-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비상장 스타트업 창업자 ‘복수의결권‘ 허용… 벤처기업법 개정안 국회 통과]]></title>
+            <link>https://platum.kr/archives/206159</link>
+            <guid>https://platum.kr/archives/206159</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206159" title="비상장 스타트업 창업자 ‘복수의결권‘ 허용… 벤처기업법 개정안 국회 통과">비상장 스타트업 창업자 ‘복수의결권‘ 허용… 벤처기업법 개정안 국회 통과</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/xianglai"><span class="gravatar"><img alt="조상래" src="https://platum.kr/wp-content/uploads/2016/12/조상래_avatar_1482440418-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">조상래</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206159">Posted On 2023/04/27</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206159">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/04/asse-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   비상장 벤처기업의 복수의결권주식 발행을 허용하는 ‘벤처기업육성에 관한 특별조치법(이하 ‘벤처기업법’)’ 일부개정법률안이 4월 27일 국회 본회의를 통과했다. 이날 벤처기업법 개정안은 국회의원 260명이 표결에 참여해 찬성 173명으로 통과됐다. 반[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206159">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206159#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/04/asse-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이현섭의 스타트업 법률가이드] #100. 스톡옵션 부여시 체크리스트 (2)]]></title>
+            <link>https://platum.kr/archives/206130</link>
+            <guid>https://platum.kr/archives/206130</guid>
+            <pubDate>Thu, 04 May 2023 21:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/206130" title="[이현섭의 스타트업 법률가이드] #100. 스톡옵션 부여시 체크리스트 (2)">[이현섭의 스타트업 법률가이드] #100. 스톡옵션 부여시 체크리스트 (2)</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/hoseok-jung"><span class="gravatar"><img alt="법무법인 세움" src="https://platum.kr/wp-content/uploads/2019/02/정호석_avatar_1549859856-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 세움</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/206130">Posted On 2023/04/27</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206130">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/04/stock-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   지난 1편에 이어 기업이 스톡옵션을 부여 시, 거쳐야 하는 절차 나머지 5가지에 대해 살펴보겠습니다. 6. 행사기간이 적법한 범위 내에 있는지 법률상 주식매수선택권은 부여일로부터 2년 이상 재임 또는 재직한 경우에만 행사할 수 있으며(상법 제340조의4 제1항), 이는[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/206130">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/206130#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/04/stock-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

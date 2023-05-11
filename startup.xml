@@ -4,7 +4,7 @@
         <title>플래텀 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,14 @@
 			   
 			   <br class="clear">
 	    	
-	    					   
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/206759">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/unnamed-3-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
 			   	<br class="clear">
 				<!-- 원본 소스 BEGIN -->
 								<!-- 원본 소스 END -->
@@ -63,6 +70,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/unnamed-3-640x427.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[원티드랩, AI 커리어 설계 서비스 ‘커리어맵’ 출시]]></title>

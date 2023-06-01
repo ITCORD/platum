@@ -4,11 +4,11 @@
         <title>플래텀 ─ Trends</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 05:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 06:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[농업의 미래는 농업 스타트업 성장에 달려… 기후위기 대응과 생태계 혁신을 위한 새로운 접근방식 필요]]></title>
+            <title><![CDATA[“농업의 미래는 농업 스타트업 성장에 달려있다”]]></title>
             <link>https://platum.kr/archives/207844</link>
             <guid>https://platum.kr/archives/207844</guid>
             <pubDate>Thu, 01 Jun 2023 01:16:38 GMT</pubDate>
@@ -19,6 +19,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
@@ -31,11 +33,13 @@
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
 					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/207844" title="농업의 미래는 농업 스타트업 성장에 달려… 기후위기 대응과 생태계 혁신을 위한 새로운 접근방식 필요">농업의 미래는 농업 스타트업 성장에 달려… 기후위기 대응과 생태계 혁신을 위한 새로운 접근방식 필요</a></h5>
+						      	<h5><a href="https://platum.kr/archives/207844" title="“농업의 미래는 농업 스타트업 성장에 달려있다”">“농업의 미래는 농업 스타트업 성장에 달려있다”</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>

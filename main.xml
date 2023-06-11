@@ -1,8 +1,731 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/startup-3</id>
-    <title>플래텀 ─ Main</title>
-    <updated>2023-06-11T08:14:49.389Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Main</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 11 Jun 2023 09:12:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장] 스타트업 전문가와 전북 스타트업의 만남…지역 스타트업 투자와 스케일업 논해]]></title>
+            <link>https://platum.kr/archives/208329</link>
+            <guid>https://platum.kr/archives/208329</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/208329" title="[현장] 스타트업 전문가와 전북 스타트업의 만남…지역 스타트업 투자와 스케일업 논해">[현장] 스타트업 전문가와 전북 스타트업의 만남…지역 스타트업 투자와 스케일업 논해</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/208329">Posted On 2023/06/08</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/208329">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/DSC_7748-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   국내 창업정책 전문가들이 비수도권 스타트업의 투자와 성장을 논의하는 자리가 마련됐다. 전라북도와 전북창조경제혁신센터 주최, 주관으로 7일 전주 한옥마을 내 1938맨션에서 ‘키움공간 한옥차담회’가 열렸다. 이번 행사는 스타트업의 투자유치와 스케일업[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/208329">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/208329#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/DSC_7748-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[On-Site] Startups on the Runway…COEX Filled with Innovators]]></title>
+            <link>https://platum.kr/archives/208307</link>
+            <guid>https://platum.kr/archives/208307</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/all-tech-korea">ALL TECH KOREA</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/all-tech-korea">ALL TECH KOREA</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/208307" title="[On-Site] Startups on the Runway…COEX Filled with Innovators">[On-Site] Startups on the Runway…COEX Filled with Innovators</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/208307">Posted On 2023/06/07</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/208307">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/DSC_6497-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   Korea’s longest running startup demo day, “D-Day” was held on the 2nd at the COEX Grand Ballroom. Organized by D.CAMP, the Banks Fou[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/208307">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/208307#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/DSC_6497-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] 런웨이 무대에 선 스타트업…코엑스 꽉 채운 혁신 의지]]></title>
+            <link>https://platum.kr/archives/208122</link>
+            <guid>https://platum.kr/archives/208122</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/208122" title="[현장] 런웨이 무대에 선 스타트업…코엑스 꽉 채운 혁신 의지">[현장] 런웨이 무대에 선 스타트업…코엑스 꽉 채운 혁신 의지</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/208122">Posted On 2023/06/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/208122">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/DSC_7374-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   국내 최장수 스타트업 데모데이인 ‘디데이’가 지난 2일 코엑스 그랜드볼룸에서 개최됐다. 은행권청년창업재단 디캠프가 2013년 6월부터 현재까지 진행해 온 디데이는 매달 열리는 데모데이로 600개가 넘는 기업이 거쳐갔으며 이날 109회차를 맞이했다.[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/208122">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/208122#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/DSC_7374-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NextRise 2023, Seoul] Grand Finale of ‘Open Innovation Venue’ with 450 Startups]]></title>
+            <link>https://platum.kr/archives/208125</link>
+            <guid>https://platum.kr/archives/208125</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/all-tech-korea">ALL TECH KOREA</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/all-tech-korea">ALL TECH KOREA</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/208125" title="[NextRise 2023, Seoul] Grand Finale of ‘Open Innovation Venue’ with 450 Startups">[NextRise 2023, Seoul] Grand Finale of ‘Open Innovation Venue’ with 450 Startups</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/208125">Posted On 2023/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/208125">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/DSC_6181-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   NextRise 2023 (Seoul), Korea’s largest startup fair, was held on June 1 (Thursday) and 2 (Friday) at COEX in Samseong-dong, Seoul. ⓒPlatum NextR[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/208125">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/208125#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/DSC_6181-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넥스트라이즈 2023] 450개 스타트업 참여한 ‘오픈이노베이션의 場’ 대단원]]></title>
+            <link>https://platum.kr/archives/208001</link>
+            <guid>https://platum.kr/archives/208001</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/208001" title="[넥스트라이즈 2023] 450개 스타트업 참여한 ‘오픈이노베이션의 場’ 대단원">[넥스트라이즈 2023] 450개 스타트업 참여한 ‘오픈이노베이션의 場’ 대단원</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/208001">Posted On 2023/06/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/208001">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/page-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   6.1(목)~2(금) 양일간 서울 삼성동 코엑스에서 개최된 국내 최대 규모 스타트업 페어 ‘넥스트라이즈 2023(NextRise&nbsp;2023, Seoul)’이 막을 내렸다. 올해 5회차를 맞이한 넥스트라이즈는 유망 스타트업의 투자유치와 더불어 국내외 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/208001">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/208001#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/page-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타트업 멘탈케어 돕는 ‘창업가들의 마음상담소’ 출범]]></title>
+            <link>https://platum.kr/archives/207979</link>
+            <guid>https://platum.kr/archives/207979</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/207979" title="스타트업 멘탈케어 돕는 ‘창업가들의 마음상담소’ 출범">스타트업 멘탈케어 돕는 ‘창업가들의 마음상담소’ 출범</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/207979">Posted On 2023/06/02</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/207979">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/unnamed-4-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   코리아스타트업포럼(코스포)과 디캠프(은행권청년창업재단), 스타트업얼라이언스, 아산나눔재단이 주최하고 중소벤처기업부, 한국벤처투자, 한국벤처캐피탈협회가 후원하는&nbsp;‘창업가들의 마음상담소’ 출범식이 6월 2일 오전 10시 서울 강남구 MARU360에서 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/207979">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/207979#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/unnamed-4-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why TheVentures Focuses on Vietnamese Startups]]></title>
+            <link>https://platum.kr/archives/207897</link>
+            <guid>https://platum.kr/archives/207897</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/all-tech-korea">ALL TECH KOREA</a>
+											&nbsp;/
+											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/workinsight">Workinsight</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/all-tech-korea">ALL TECH KOREA</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/workinsight">Workinsight</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/207897" title="Why TheVentures Focuses on Vietnamese Startups">Why TheVentures Focuses on Vietnamese Startups</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/207897">Posted On 2023/06/01</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/207897">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/05/KakaoTalk_20230523_114332537_02-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   Vietnam is one of the most active overseas markets for Korean companies. Korean conglomerates such as Samsung, LG, and Lotte have already invested hea[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/207897">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/207897#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/05/KakaoTalk_20230523_114332537_02-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법 “‘타다’ 불법 콜택시 아니다”‥. ‘시장에서 사라진 혁신’ 무죄 확정]]></title>
+            <link>https://platum.kr/archives/207936</link>
+            <guid>https://platum.kr/archives/207936</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/207936" title="대법 “‘타다’ 불법 콜택시 아니다”‥. ‘시장에서 사라진 혁신’ 무죄 확정">대법 “‘타다’ 불법 콜택시 아니다”‥. ‘시장에서 사라진 혁신’ 무죄 확정</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/207936">Posted On 2023/06/01</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/207936">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2021/08/TADA_1st-Still_00-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   차량호출 서비스 ‘타다’ 전 경영진이 대법원에서 무죄를 최종 확정받았다. 1일 대법원 3부(주심 오석준 대법관)는 여객자동차운수사업법 위반 혐의로 기소된 쏘카 이재웅 전 대표와 타다 운영사였던 VCNC 박재욱 전 대표(현 쏘카 대표)에게 무죄를 선[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/207936">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/207936#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2021/08/TADA_1st-Still_00-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넥스트라이즈 2023] 국내 최대 스타트업 페어 개막]]></title>
+            <link>https://platum.kr/archives/207922</link>
+            <guid>https://platum.kr/archives/207922</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/207922" title="[넥스트라이즈 2023] 국내 최대 스타트업 페어 개막">[넥스트라이즈 2023] 국내 최대 스타트업 페어 개막</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/207922">Posted On 2023/06/01</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/207922">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/KakaoTalk_20230601_095607689_01-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   국내 최대 스타트업&nbsp;종합 페어인 ‘넥스트라이즈 2023(NextRise 2023, Seoul)’이 서울 코엑스에서 1일 개막했다. 올해 5회차를 맞는 이번 행사는 산업은행, 무역협회가 주관하고 국가과학기술연구회, 벤처기업협회, 한국벤처캐피탈협회와 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/207922">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/207922#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/KakaoTalk_20230601_095607689_01-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“농업의 미래는 농업 스타트업 성장에 달려있다”]]></title>
+            <link>https://platum.kr/archives/207844</link>
+            <guid>https://platum.kr/archives/207844</guid>
+            <pubDate>Sun, 11 Jun 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/207844" title="“농업의 미래는 농업 스타트업 성장에 달려있다”">“농업의 미래는 농업 스타트업 성장에 달려있다”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/207844">Posted On 2023/06/01</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/207844">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/image-2-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   소풍벤처스가 30일 &lt;기후위기시대, 농업의 본질적 문제를 겨냥하라&gt;는 주제로 기후위기에 따른 농업 생태계의 혁신 필요성과 농업식품 스타트업의 역할 및 기회요인을 다루는 세미나를 진행했다. 1부에서는 한국정밀농업연구소 남재작 박사의 &lt;한국 농업의 구조 변[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/207844">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/207844#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/image-2-640x427.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

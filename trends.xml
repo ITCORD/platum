@@ -4,7 +4,7 @@
         <title>플래텀 ─ Trends</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 03:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 04:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,6 +148,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -157,6 +159,8 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
@@ -167,7 +171,7 @@
 														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
 										      		</span>
 			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/210783">Posted On 2023/07/20</a>
+			      			<a href="https://platum.kr/archives/210783">Posted On 2023/07/19</a>
 			      		</span>
 				  	</div>
 			   </div>

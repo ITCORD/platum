@@ -4,11 +4,11 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 01:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 02:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[최수현 네이버 대표 “누구나 손쉽게 사용할 수 있는 새로운 생성형AI 시대 열겠다”]]></title>
+            <title><![CDATA[최수연 네이버 대표 “누구나 손쉽게 사용할 수 있는 새로운 생성형AI 시대 열겠다”]]></title>
             <link>https://platum.kr/archives/212389</link>
             <guid>https://platum.kr/archives/212389</guid>
             <pubDate>Thu, 24 Aug 2023 01:43:16 GMT</pubDate>
@@ -39,7 +39,7 @@
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/212389" title="최수현 네이버 대표 “누구나 손쉽게 사용할 수 있는 새로운 생성형AI 시대 열겠다”">최수현 네이버 대표 “누구나 손쉽게 사용할 수 있는 새로운 생성형AI 시대 열겠다”</a></h5>
+						      	<h5><a href="https://platum.kr/archives/212389" title="최수연 네이버 대표 “누구나 손쉽게 사용할 수 있는 새로운 생성형AI 시대 열겠다”">최수연 네이버 대표 “누구나 손쉽게 사용할 수 있는 새로운 생성형AI 시대 열겠다”</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
@@ -157,6 +157,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -166,6 +168,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->

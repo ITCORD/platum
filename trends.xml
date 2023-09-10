@@ -1,8 +1,685 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/trends</id>
-    <title>플래텀 ─ Trends</title>
-    <updated>2023-09-10T22:12:26.166Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Trends</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 10 Sep 2023 23:12:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점광원 하나로 선광원을 구현하는, 광학 차원 변환 기술]]></title>
+            <link>https://platum.kr/archives/213386</link>
+            <guid>https://platum.kr/archives/213386</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213386" title="점광원 하나로 선광원을 구현하는, 광학 차원 변환 기술">점광원 하나로 선광원을 구현하는, 광학 차원 변환 기술</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213386">Posted On 2023/09/08</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213386">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/e6426b3c1bec5-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   점 하나로 선을 구현한다 점 하나로 선을 구현할 수 있다면 어떻게 될까? 흔히 점은 0차원으로 표현되고, 선은 1차원으로 표현된다. 무수히 많은 0차원의 점이 모여서, 1차원의 선을 이루고, 1차원의 무수히 많은 선이 동일 평면상에 모여서 2차원의 면을 이룬다. 무수히[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213386">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213386#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/e6426b3c1bec5-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[중국·일본 유니온페이 가맹점 서 네이버페이 된다]]></title>
+            <link>https://platum.kr/archives/213308</link>
+            <guid>https://platum.kr/archives/213308</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/china">China</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/china">China</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213308" title="중국·일본 유니온페이 가맹점 서 네이버페이 된다">중국·일본 유니온페이 가맹점 서 네이버페이 된다</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/xianglai"><span class="gravatar"><img alt="조상래" src="https://platum.kr/wp-content/uploads/2016/12/조상래_avatar_1482440418-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">조상래</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213308">Posted On 2023/09/07</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213308">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/373353649_213292788140121_547473388558025879_n-horz-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   네이버페이가 중국과 일본 전역 내 유니온페이 오프라인 가맹점에서 네이버페이 앱을 통한 QR 현장결제 서비스를 시작했다. 국내에서 유니온페이와 결제 연동을 시작한 간편결제 서비스는 네이버페이가 최초다. 네이버페이를 이용하며 쌓인 포인트 또는 직접 충전한 네이버페이 머니를[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213308">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213308#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/373353649_213292788140121_547473388558025879_n-horz-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최앤리의 스타트업×법] 인테리어 공사 하도급 업체의 직접지급 청구 거부할 수 있을까]]></title>
+            <link>https://platum.kr/archives/213285</link>
+            <guid>https://platum.kr/archives/213285</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213285" title="[최앤리의 스타트업×법] 인테리어 공사 하도급 업체의 직접지급 청구 거부할 수 있을까">[최앤리의 스타트업×법] 인테리어 공사 하도급 업체의 직접지급 청구 거부할 수 있을까</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/lawblank"><span class="gravatar"><img alt="최앤리 법률사무소" src="https://platum.kr/wp-content/uploads/2020/08/최앤리-법률사무소_avatar_1597155563-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최앤리 법률사무소</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213285">Posted On 2023/09/07</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213285">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/11/choi-640x426.jpg" alt="" class="" style="width:640px;height:426px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   고객사가 최근 계약도 하지 않았고 모르는 업체로부터 내용증명을 받았다고 급히 연락이 온 적이 있었습니다. 내용증명을 확인하니 내용은 이러했습니다. 고객사가 인테리어 시공업체에 공사를 맡겼는데, 그 시공업체가 철거공사 공정은 다른 철거 전문 업체에 맡겼고, 그 철거 업체[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213285">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213285#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/11/choi-640x426.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[구노하우 70] 조달청 우수제품제도의 혜택은?]]></title>
+            <link>https://platum.kr/archives/213269</link>
+            <guid>https://platum.kr/archives/213269</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213269" title="[구노하우 70] 조달청 우수제품제도의 혜택은?">[구노하우 70] 조달청 우수제품제도의 혜택은?</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213269">Posted On 2023/09/06</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213269">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/70-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   블록체인 기반 연구노트 솔루션 ’구노’를 개발하는 레드윗의 김지원 대표입니다. ‘구노하우’는 많은 스타트업이 겪는 고민에 대한 해결책을 안내해드리는 칼럼입니다. 우수제품제도란? 조달청에서는 조달물자의 품질향상을 위해 1996년부터 중소기업 및 초기 중견기업이 생상한 제[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213269">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213269#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/70-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘지나가면 결제 끝!’ 티머니가 시작한 태그리스 결제 서비스는?]]></title>
+            <link>https://platum.kr/archives/213201</link>
+            <guid>https://platum.kr/archives/213201</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213201" title="‘지나가면 결제 끝!’ 티머니가 시작한 태그리스 결제 서비스는?">‘지나가면 결제 끝!’ 티머니가 시작한 태그리스 결제 서비스는?</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213201">Posted On 2023/09/06</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213201">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/tag-509x427.jpg" alt="" class="" style="width:509px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   차세대 대중교통 결제 솔루션으로 전세계가 인정한 ‘태그리스’ 결제 서비스가 국내서 시작됐다. 티머니가 ‘태그리스(Tagless) 결제’ 서비스를 공식 오픈했다. 티머니는 우이신설경전철을 시작으로 태그리스 결제 서비스 범위를 단계적으로 확대해 나갈 예정이다. […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213201">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213201#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/tag-509x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 통해 알아본 9월 1주차 화제의 브랜드 랭킹]]></title>
+            <link>https://platum.kr/archives/213112</link>
+            <guid>https://platum.kr/archives/213112</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213112" title="빅데이터를 통해 알아본 9월 1주차 화제의 브랜드 랭킹">빅데이터를 통해 알아본 9월 1주차 화제의 브랜드 랭킹</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213112">Posted On 2023/09/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213112">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/q-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   빅데이터 분석을 통해 9월 1주차 화제의 브랜드로 뚜레쥬르, 네슬레, 올리브영 등이 선정됐다. 이는 2023년 8월 28일부터 9월 3일까지의 분석 결과다. VAIV 생활변화관측소가 451억 건 이상의 빅데이터를 기반으로 자체 개발한 브랜드 랭킹 지수인 ‘브[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213112">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213112#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/q-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비전 있는 회사가 되는 방법]]></title>
+            <link>https://platum.kr/archives/213096</link>
+            <guid>https://platum.kr/archives/213096</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213096" title="비전 있는 회사가 되는 방법">비전 있는 회사가 되는 방법</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213096">Posted On 2023/09/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213096">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/5083a222ab1e2-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   인건비가 오르고 있다. 인건비가 오르는 데는 여러가지 원인이 있겠지만, 좋은 인재를 확보하기 위한 대기업들의 공격적인 투자와 경쟁사들의 인재유치 경쟁이 주 원인이 될 것이다. 협상 중에 가장 중요한 협상은 바로 인재유치에 관한 협상이고, 그 과정에서 연봉이 가장 중요한[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213096">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213096#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/5083a222ab1e2-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 뮤비부터 인소 빙의물까지 Y2K 트렌드 총정리]]></title>
+            <link>https://platum.kr/archives/213070</link>
+            <guid>https://platum.kr/archives/213070</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/213070" title="아이돌 뮤비부터 인소 빙의물까지 Y2K 트렌드 총정리">아이돌 뮤비부터 인소 빙의물까지 Y2K 트렌드 총정리</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/213070">Posted On 2023/09/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/213070">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/newjeans-gangnam_@-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   ‘Y2K’, 혼란에서 트렌드로 1999년에서 2000년으로 넘어가던 날, 많은 사람들이 컴퓨터의 오류로 인한 전세계 대혼란을 우려했습니다. 이 때문에 관공서와 은행 등에는 비상이 걸리고, 불안한 시민들은 생필품을 사재기하는 등 크고 작은 소동도 벌어졌죠. 여기서 사람들[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/213070">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/213070#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/newjeans-gangnam_@-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특허법인세움] 류한슬의 돈이 되는 IP ① ‘IP 금융 현황과 전망’]]></title>
+            <link>https://platum.kr/archives/212998</link>
+            <guid>https://platum.kr/archives/212998</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/212998" title="[특허법인세움] 류한슬의 돈이 되는 IP ① ‘IP 금융 현황과 전망’">[특허법인세움] 류한슬의 돈이 되는 IP ① ‘IP 금융 현황과 전망’</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/hoseok-jung"><span class="gravatar"><img alt="법무법인 세움" src="https://platum.kr/wp-content/uploads/2019/02/정호석_avatar_1549859856-60x60.png" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 세움</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/212998">Posted On 2023/09/01</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/212998">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/ip-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   기업은 기술, 브랜드, 디자인 등을 특허권, 상표권, 디자인권, 저작권 등의 형태로 보유하고 있으며, 이러한 모든 무형의 재산적 가치가 존재하는 것을 지식재산, 즉 IP(Intellectual Property)라고 합니다. 이러한 IP는 일반적으로 시장에서 독점적 지위[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/212998">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/212998#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/ip-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플랫폼과 산업갈등 “있는 제도 스타트업이 잘 활용할 수 있는 환경 만들어져야”]]></title>
+            <link>https://platum.kr/archives/212914</link>
+            <guid>https://platum.kr/archives/212914</guid>
+            <pubDate>Sun, 10 Sep 2023 23:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/212914" title="플랫폼과 산업갈등 “있는 제도 스타트업이 잘 활용할 수 있는 환경 만들어져야”">플랫폼과 산업갈등 “있는 제도 스타트업이 잘 활용할 수 있는 환경 만들어져야”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" width="60" height="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/212914">Posted On 2023/08/31</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/212914">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/08/53154541765_8f00f146d5_k-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   플랫폼과 기존 산업 간의 갈등양상을 객관적으로 이해하고 관리하기 위한 프레임워크 연구결과가 발표되었다. 스타트업얼라이언스는 31일 오후 2시 국회입법조사처 대회의실에서 ‘플랫폼과 산업갈등-쟁점과 과제 토론회’를 개최했다. 토론회에서는 플랫폼 경제의[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/212914">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/212914#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/08/53154541765_8f00f146d5_k-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

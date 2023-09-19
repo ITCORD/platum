@@ -4,7 +4,7 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,7 +268,7 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2023/09/23-0918-%EC%82%B0%EC%97%85-JDC-%EB%8F%84%EB%82%B4%EC%99%B8-ESG-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%EC%9D%84-%EC%9C%84%ED%95%9C-R-Day-%EC%84%B1%EB%A3%8C2-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타트업 관계자 100여 명 제주 집결 ‘코스포 워크숍 ‘스타트업 썸(∑)’ 개최]]></title>
+            <title><![CDATA[스타트업 관계자 100여 명 제주 집결 ‘ 코스포 워크숍 ‘스타트업 썸(∑)’ 열려]]></title>
             <link>https://platum.kr/archives/213856</link>
             <guid>https://platum.kr/archives/213856</guid>
             <pubDate>Mon, 18 Sep 2023 21:11:18 GMT</pubDate>
@@ -279,6 +279,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -288,10 +290,12 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/213856" title="스타트업 관계자 100여 명 제주 집결 ‘코스포 워크숍 ‘스타트업 썸(∑)’ 개최">스타트업 관계자 100여 명 제주 집결 ‘코스포 워크숍 ‘스타트업 썸(∑)’ 개최</a></h5>
+						      	<h5><a href="https://platum.kr/archives/213856" title="스타트업 관계자 100여 명 제주 집결 ‘ 코스포 워크숍 ‘스타트업 썸(∑)’ 열려">스타트업 관계자 100여 명 제주 집결 ‘ 코스포 워크숍 ‘스타트업 썸(∑)’ 열려</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
@@ -345,6 +349,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -355,6 +361,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>

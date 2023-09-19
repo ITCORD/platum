@@ -4,7 +4,7 @@
         <title>플래텀 ─ Financing</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -93,6 +95,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -112,7 +116,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/213926">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/ati.jpg" alt="" class="" style="width:459px;height:126px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/12345-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -135,7 +139,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/ati.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/12345-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트 건설 스타트업 ‘무브먼츠’, 25억 원 규모 시리즈 A 투자유치]]></title>

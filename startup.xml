@@ -4,7 +4,7 @@
         <title>플래텀 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -540,6 +540,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -550,6 +552,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>

@@ -4,7 +4,7 @@
         <title>플래텀 ─ Financing</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -93,6 +95,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -112,7 +116,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/214399">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/XL8-640x427.png" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/09/52392277546_b2e55fce17_o-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -135,7 +139,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/XL8-640x427.png" length="0" type="image/png"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/09/52392277546_b2e55fce17_o-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의료기기 벤처기업 ‘큐라움’, 106억원 규모 시리즈 B 투자 유치]]></title>
@@ -344,6 +348,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -353,6 +359,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->

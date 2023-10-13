@@ -1,8 +1,685 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/event</id>
-    <title>플래텀 ─ Event</title>
-    <updated>2023-10-13T02:24:07.054Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Event</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 13 Oct 2023 03:13:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱가포르에서 열린 ‘머스트 커넥트 2023’…국내 12개 스타트업 로드쇼]]></title>
+            <link>https://platum.kr/archives/215097</link>
+            <guid>https://platum.kr/archives/215097</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215097" title="싱가포르에서 열린 ‘머스트 커넥트 2023’…국내 12개 스타트업 로드쇼">싱가포르에서 열린 ‘머스트 커넥트 2023’…국내 12개 스타트업 로드쇼</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215097">Posted On 2023/10/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215097">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/ss-2-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   국내 유망 바이오 및 디지털 헬스케어 스타트업을 글로벌 제약사와 의료기관, 투자사 등과 연결해 해외 진출을 도와주는 ‘머스트 커넥트 2023 싱가포르’가 지난 11일부터 이틀 동안 싱가포르 사이언스 파크에서 열렸다. ‘머스트 커넥트’는 국내 스타트업의 해외 진출을 꾸준[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215097">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215097#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/ss-2-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소풍벤처스, ‘2023 클라이밋 테크 스타트업 서밋’ 제주에서 개최]]></title>
+            <link>https://platum.kr/archives/215080</link>
+            <guid>https://platum.kr/archives/215080</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215080" title="소풍벤처스, ‘2023 클라이밋 테크 스타트업 서밋’ 제주에서 개최">소풍벤처스, ‘2023 클라이밋 테크 스타트업 서밋’ 제주에서 개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215080">Posted On 2023/10/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215080">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/ww-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   임팩트 투자사 소풍벤처스가 오는 10월 19일부터 3일간 제주에서 “기후기술과 인공지능(AI for fighting against the Climate Crisis)”을 주제로 ‘2023 클라이밋 테크 스타트업 서밋(2023 Climate Tech Startup Sum[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215080">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215080#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/ww-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울핀테크랩-IBK기업은행, ‘2023 서울 핀테크 위크 데모데이’ 성료]]></title>
+            <link>https://platum.kr/archives/215059</link>
+            <guid>https://platum.kr/archives/215059</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215059" title="서울핀테크랩-IBK기업은행, ‘2023 서울 핀테크 위크 데모데이’ 성료">서울핀테크랩-IBK기업은행, ‘2023 서울 핀테크 위크 데모데이’ 성료</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215059">Posted On 2023/10/12</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215059">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/unnamed-1-4-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   서울시, 서울핀테크랩, IBK기업은행이 유망 핀테크 스타트업에 대한 투자유치를 지원하는 ‘2023 서울 핀테크 위크 데모데이 with IBK기업은행’에서 우수 3개 스타트업이 최종 선정됐다. 국내 최대 규모의 핀테크 스타트업 육성기관 서울핀테크랩이 IBK 1st LAB[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215059">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215059#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/unnamed-1-4-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씨엔티테크, ‘2023 관광 액셀러레이팅 프로그램 데모데이 및 투자자 매칭데이’ 개최]]></title>
+            <link>https://platum.kr/archives/215019</link>
+            <guid>https://platum.kr/archives/215019</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215019" title="씨엔티테크, ‘2023 관광 액셀러레이팅 프로그램 데모데이 및 투자자 매칭데이’ 개최">씨엔티테크, ‘2023 관광 액셀러레이팅 프로그램 데모데이 및 투자자 매칭데이’ 개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215019">Posted On 2023/10/12</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215019">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/gg-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   문화체육관광부와 한국관광공사가 주관하고 씨엔티테크가 주최하는 ‘2023 관광 액셀러레이팅 프로그램 데모데이 및 투자자 매칭데이’가 오는 개최된다. ‘2023 관광 액셀러레이팅 프로그램’의 데모데이 행사는 관광 분야 유망 스타트업으로 선발된 10개사의 사업을 소개하고 금[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215019">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215019#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/gg-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경콘진, 의정부시 관내 PoC 희망 스타트업 모집]]></title>
+            <link>https://platum.kr/archives/215002</link>
+            <guid>https://platum.kr/archives/215002</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215002" title="경콘진, 의정부시 관내 PoC 희망 스타트업 모집">경콘진, 의정부시 관내 PoC 희망 스타트업 모집</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215002">Posted On 2023/10/12</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215002">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/poc-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   경기콘텐츠진흥원이 의정부시와 함께 의정부시 미래산업 육성 정책의 일환으로 의정부시 관내 PoC(Proof of Concept, 기술실증) 지원을 희망하는 우수 스타트업 발굴을 위해 ‘2023 의정부 혁신도시 챌린지 오디션(이하 오디션)’을 개최한다. 이번 오디션은 경기[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215002">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215002#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/poc-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[82스타트업, 네 번째 ‘글로벌 액셀러레이터’ 프로그램 개시…유니콘 창업자 멘토로 참여]]></title>
+            <link>https://platum.kr/archives/214991</link>
+            <guid>https://platum.kr/archives/214991</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/214991" title="82스타트업, 네 번째 ‘글로벌 액셀러레이터’ 프로그램 개시…유니콘 창업자 멘토로 참여">82스타트업, 네 번째 ‘글로벌 액셀러레이터’ 프로그램 개시…유니콘 창업자 멘토로 참여</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/214991">Posted On 2023/10/11</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/214991">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/8282-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   실리콘밸리에 위치한 ’82스타트업(이하 ’82 Startup’)’과 멋쟁이사자처럼(이하 ‘멋사’)이 제 4회 글로벌 액셀러레이터(이하 ‘Global Accelerator’) 프로그램을[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/214991">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/214991#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/8282-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“실리콘밸리 시대는 아직 저물지 않았다”…실리콘밸리의 한국인 2023 성료]]></title>
+            <link>https://platum.kr/archives/214972</link>
+            <guid>https://platum.kr/archives/214972</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/214972" title="“실리콘밸리 시대는 아직 저물지 않았다”…실리콘밸리의 한국인 2023 성료">“실리콘밸리 시대는 아직 저물지 않았다”…실리콘밸리의 한국인 2023 성료</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/214972">Posted On 2023/10/11</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/214972">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/20231011_134602-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   미국 시장에서 활약 중인 한국인들의 경험을 공유하는 ‘실리콘밸리의 한국인 2023’이 11일 네이버1784 스카이홀에서 개최됐다. 2014년부터 시작해 올해 10주년을 맞은 실리콘 밸리의 한국인은 스타트업얼라이언스가 매년 주최하는 컨퍼런스다. IT의 중심지라고 불리는 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/214972">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/214972#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/20231011_134602-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“‘아톰’과 ‘비트’가 경쟁하고 상호보완하는 혁신” 10번째 블루포인트 데모데이]]></title>
+            <link>https://platum.kr/archives/214925</link>
+            <guid>https://platum.kr/archives/214925</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/214925" title="“‘아톰’과 ‘비트’가 경쟁하고 상호보완하는 혁신” 10번째 블루포인트 데모데이">“‘아톰’과 ‘비트’가 경쟁하고 상호보완하는 혁신” 10번째 블루포인트 데모데이</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/214925">Posted On 2023/10/11</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/214925">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/qqq-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   액셀러레이터(AC) 블루포인트파트너스가 11일 서울 강남구 섬유센터 이벤트홀에서 10번째 데모데이를 개최했다. 블루포인트 데모데이는 단순히 포트폴리오 소개뿐만 아니라, 투자 생태계를 관통하는 인사이트를 얻을 수 있는 자리로 정평이 나 있다. 올해 행사에는 투자자, 학계[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/214925">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/214925#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/qqq-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 실리콘밸리 VC 앞에 선 인천, 전북 스타트업]]></title>
+            <link>https://platum.kr/archives/214938</link>
+            <guid>https://platum.kr/archives/214938</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/214938" title="미국 실리콘밸리 VC 앞에 선 인천, 전북 스타트업">미국 실리콘밸리 VC 앞에 선 인천, 전북 스타트업</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/214938">Posted On 2023/10/11</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/214938">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/ss-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   인천ITP, 전북창조경제혁신센터, 씨엔티테크가 인천과 전북 대표 스타트업을 미국 현지에 소개하는 프로그램을 실리콘밸리에서 개최했다. 추석 연휴 중이었던 10월 2일부터 6일까지 진행된 이번 행사에는 인천ITP 부스트 스타트업 보육기업인 브레인기어, 한국환경전략연구소, […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/214938">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/214938#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/ss-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국초기투자기관협회, 스타트업 딜소싱 프로그램 ‘블링크’ 부산에서 오프라인 개최]]></title>
+            <link>https://platum.kr/archives/214920</link>
+            <guid>https://platum.kr/archives/214920</guid>
+            <pubDate>Fri, 13 Oct 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/214920" title="한국초기투자기관협회, 스타트업 딜소싱 프로그램 ‘블링크’ 부산에서 오프라인 개최">한국초기투자기관협회, 스타트업 딜소싱 프로그램 ‘블링크’ 부산에서 오프라인 개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/214920">Posted On 2023/10/11</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/214920">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/fdrg-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   한국초기투자기관협회(KESIA)가 지난달 7일 부산 바운스 행사에서 스타트업 딜소싱 프로그램 ‘블링크(BLiNK)’를 오프라인으로 처음 개최했다. 부산 바운스는 올해로 7회째 맞이하는 부산 대표 스타트업 행사로 지난달 7~8일 이틀 동안 개최되었다. IR피칭, 투자 및[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/214920">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/214920#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/fdrg-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

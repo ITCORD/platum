@@ -1,8 +1,665 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/startup</id>
-    <title>플래텀 ─ Startup</title>
-    <updated>2023-10-17T00:47:19.725Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Startup</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 17 Oct 2023 01:49:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴플로이, 통화 내역 저장·관리 자동화 서비스 ‘킵톡’ 출시]]></title>
+            <link>https://platum.kr/archives/215334</link>
+            <guid>https://platum.kr/archives/215334</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215334" title="뉴플로이, 통화 내역 저장·관리 자동화 서비스 ‘킵톡’ 출시">뉴플로이, 통화 내역 저장·관리 자동화 서비스 ‘킵톡’ 출시</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215334">Posted On 2023/10/17</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215334">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/79c705e5-5dcf-d6e2-48d8-08eba6d895df-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   HR・재무・영업 등 기업 업무 효율화 솔루션을 운영 중인 뉴플로이가 클라우드 기반 통화 기록 서비스 ‘킵톡‘을 정식 출시한다. 뉴플로이는 일반 이용자들이 통화 내역이나 메모를 손수 관리하는데서 발생하는 불편함을 파악, 통화 관련 기록들을 클라우드에 자동으로 저장하고 관[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215334">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215334#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/79c705e5-5dcf-d6e2-48d8-08eba6d895df-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[“AI 서비스를 코딩없이 입맛대로”…렛서, AI 플랫폼 ‘램프’ 론칭]]></title>
+            <link>https://platum.kr/archives/215326</link>
+            <guid>https://platum.kr/archives/215326</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215326" title="“AI 서비스를 코딩없이 입맛대로”…렛서, AI 플랫폼 ‘램프’ 론칭">“AI 서비스를 코딩없이 입맛대로”…렛서, AI 플랫폼 ‘램프’ 론칭</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215326">Posted On 2023/10/17</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215326">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/lamp-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   인공지능(AI) 스타트업 렛서가 AI 플랫폼 ‘램프(LAMP)’를 정식 출시했다. 램프는 복잡하고 어려운 코딩 과정 없이 AI 서비스를 개발 및 운영할 수 있는 노코드(No Code) AI 플랫폼이다. 기업은 램프에서 제공되는 AI 템플릿을 이용해 간단한 클릭만으로 A[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215326">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215326#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/lamp-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MYSC-예술경영지원센터, 싱가포르서 韓 예술 스타트업 위한 자체 전시회 개최]]></title>
+            <link>https://platum.kr/archives/215293</link>
+            <guid>https://platum.kr/archives/215293</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215293" title="MYSC-예술경영지원센터, 싱가포르서 韓 예술 스타트업 위한 자체 전시회 개최">MYSC-예술경영지원센터, 싱가포르서 韓 예술 스타트업 위한 자체 전시회 개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215293">Posted On 2023/10/16</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215293">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/P1057918-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   사회혁신 액셀러레이터이자 임팩트 투자사 엠와이소셜컴퍼니(이하, MYSC)가 2023년 10월 4일, 5일 싱가포르 차임스홀(Chijems Hall)에서 국내 예술분야 창업기업을 위한 자체 전시회 ‘Korea ST+ART Exhibition’를 개최했다. MYSC는 문화[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215293">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215293#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/P1057918-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하우투약, 온라인 드럭스토어 ‘당신의 영양제’ 론칭]]></title>
+            <link>https://platum.kr/archives/215287</link>
+            <guid>https://platum.kr/archives/215287</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215287" title="하우투약, 온라인 드럭스토어 ‘당신의 영양제’ 론칭">하우투약, 온라인 드럭스토어 ‘당신의 영양제’ 론칭</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215287">Posted On 2023/10/16</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215287">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/how-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   하우투약에서 인플루언서 전문가들과 함께하는 온라인 드럭스토어 ‘당신의 영양제’를 정식 론칭했다. 당신의 영양제는 ‘인플루언서들의 약장을 들여다본다’라는 컨셉을 가지고 다양한 고민별 카테고리를 구성하여 나에게 꼭 맞는 영양제를 추천받을 수 있다. 또한 각 인플루언서의 채[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215287">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215287#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/how-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이션에이의 3D 콘텐츠 SaaS ‘뉴로이드’, 글로벌 론칭 7일만에 가입자 50만]]></title>
+            <link>https://platum.kr/archives/215279</link>
+            <guid>https://platum.kr/archives/215279</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215279" title="네이션에이의 3D 콘텐츠 SaaS ‘뉴로이드’, 글로벌 론칭 7일만에 가입자 50만">네이션에이의 3D 콘텐츠 SaaS ‘뉴로이드’, 글로벌 론칭 7일만에 가입자 50만</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215279">Posted On 2023/10/16</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215279">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/nation-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   생성형 인공지능 스타트업 ‘네이션에이’가 운영하는 인공지능 3D 콘텐츠 SaaS ‘뉴로이드(Neuroid)’가 누적 가입자수 50만명을 넘어섰다. 지난 10월 초, 서비스를 오픈하고 불과 7일만에 달성한 기록이다. 네이션에이가 개발한 ‘뉴로이드’는 생성형 AI 기술 활[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215279">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215279#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/nation-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 단신] 플리토, 이그니스, 어센트코리아, 나우로보틱스, 와드, 미스터아빠, 로보스, 위밋모빌리티]]></title>
+            <link>https://platum.kr/archives/215196</link>
+            <guid>https://platum.kr/archives/215196</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215196" title="[스타트업 단신] 플리토, 이그니스, 어센트코리아, 나우로보틱스, 와드, 미스터아빠, 로보스, 위밋모빌리티">[스타트업 단신] 플리토, 이그니스, 어센트코리아, 나우로보틱스, 와드, 미스터아빠, 로보스, 위밋모빌리티</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215196">Posted On 2023/10/16</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215196">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/page-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   플리토, 과기부 중동 수출단으로 AI 학습 언어 데이터 선보인다 언어 데이터 및 전문번역 서비스 기업 플리토가 과학기술정보통신부와 정보통신산업진흥원이 주도하는 2023 민·관합동 디지털 수출개척단으로서 중동 최대 IT 전시회인 ‘GITEX-North Star(자이텍스-[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215196">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215196#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/page-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포티투마루, 한국어 초거대 AI 언어모델 ‘Open Ko-LLM 리더보드’ 1위]]></title>
+            <link>https://platum.kr/archives/215181</link>
+            <guid>https://platum.kr/archives/215181</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215181" title="포티투마루, 한국어 초거대 AI 언어모델 ‘Open Ko-LLM 리더보드’ 1위">포티투마루, 한국어 초거대 AI 언어모델 ‘Open Ko-LLM 리더보드’ 1위</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215181">Posted On 2023/10/16</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215181">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/06/42-640x276.png" alt="" class="" style="width:640px;height:276px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   앤서링 AI(Answering AI) 스타트업 포티투마루(42Maru)가 한국어 초거대 AI 언어모델 ‘Open Ko-LLM 리더보드’에서 1위를 달성했다. Open Ko-LLM 리더보드는 업스테이지와 한국지능정보사회진흥원(NIA)이 함께 구축한 한국어 대규모 언어모델[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215181">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215181#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/06/42-640x276.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이달의 TIPS] 테파로보틱스, 스텔라비전, 엘렉트, 1인치, J&J Tech, 워터베이션, 코워크위더스, 아폴론, 그린다, 고이장례연구소, 오아이온, 카본사우루스]]></title>
+            <link>https://platum.kr/archives/214574</link>
+            <guid>https://platum.kr/archives/214574</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/214574" title="[이달의 TIPS] 테파로보틱스, 스텔라비전, 엘렉트, 1인치, J&amp;J Tech, 워터베이션, 코워크위더스, 아폴론, 그린다, 고이장례연구소, 오아이온, 카본사우루스">[이달의 TIPS] 테파로보틱스, 스텔라비전, 엘렉트, 1인치, J&amp;J Tech, 워터베이션, 코워크위더스, 아폴론, 그린다, 고이장례연구소, 오아이온, 카본사우루스</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/214574">Posted On 2023/10/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/214574">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/received_666146685480616-640x427.jpeg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   중소벤처기업부가 주관하는 팁스(TIPS, Tech Incubator Program for Startup)는 성장 가능성이 높이 평가되는 스타트업을 정부와 민간 투자사가 함께 발굴해 지원하는 민간 투자 주도형 기술 창업 지원 프로그램이다. 선정된 기업은 기술적으로 검증되[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/214574">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/214574#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/received_666146685480616-640x427.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[다음세대재단, 비영리 스타트업 3팀 선정…스케일, 임팩트 확장 도모]]></title>
+            <link>https://platum.kr/archives/215130</link>
+            <guid>https://platum.kr/archives/215130</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215130" title="다음세대재단, 비영리 스타트업 3팀 선정…스케일, 임팩트 확장 도모">다음세대재단, 비영리 스타트업 3팀 선정…스케일, 임팩트 확장 도모</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215130">Posted On 2023/10/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215130">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/1243-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   다음세대재단이 ‘비영리스타트업 발굴 및 성장 지원 사업’을 통해 비영리스타트업 3팀을 선정했다. ‘비영리스타트업 발굴 및 성장 지원 사업’은 재단법인 브라이언임팩트의 지원으로 사회문제를 혁신적인 방법으로 해결하고자 하는 비영리스타트업을 발굴하고 비영리스타트업의 현황에 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215130">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215130#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/1243-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼쩜삼, 개인 사업자 가입 고객 200만 명 “영세사업자 비율↑…사업자 및 소상공인 서비스 고도화 박차”]]></title>
+            <link>https://platum.kr/archives/215114</link>
+            <guid>https://platum.kr/archives/215114</guid>
+            <pubDate>Tue, 17 Oct 2023 01:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215114" title="삼쩜삼, 개인 사업자 가입 고객 200만 명 “영세사업자 비율↑…사업자 및 소상공인 서비스 고도화 박차”">삼쩜삼, 개인 사업자 가입 고객 200만 명 “영세사업자 비율↑…사업자 및 소상공인 서비스 고도화 박차”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215114">Posted On 2023/10/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215114">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/javis-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   세금 신고·환급 도움 서비스 삼쩜삼(운영사 ‘자비스앤빌런즈’)에 가입한 개인사업자가 200만 명을 넘어섰다. 개인사업자는 등록된 대표자 개인이 경영의 모든 책임을 져야 하는 사업자로, 사업 운영부터 리스크까지 온전히 대표자 개인의 몫이며 1인 또는[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215114">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215114#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/javis-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

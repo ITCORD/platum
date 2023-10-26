@@ -1,8 +1,661 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/startup</id>
-    <title>플래텀 ─ Startup</title>
-    <updated>2023-10-26T00:46:01.061Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Startup</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 26 Oct 2023 01:46:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원티드랩, 구독형 생성 AI 개발툴 ‘원티드 LaaS’ 출시]]></title>
+            <link>https://platum.kr/archives/215878</link>
+            <guid>https://platum.kr/archives/215878</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215878" title="원티드랩, 구독형 생성 AI 개발툴 ‘원티드 LaaS’ 출시">원티드랩, 구독형 생성 AI 개발툴 ‘원티드 LaaS’ 출시</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215878">Posted On 2023/10/26</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215878">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/사진자료-원티드랩-구독형-생성-AI-개발툴-‘원티드-LaaS’-출시-640x280.png" alt="" class="" style="width:640px;height:280px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   글로벌 시장조사업체 IDC에 따르면 생성 AI를 포함한 국내 AI 시장은 향후 5년간 연평균 성장률 14.9%를 기록하며, 2027년까지 4조 4,636억원 규모에 이를 전망이다. IDC는 여러 산업에서 AI 도입을 가속화하는 가운데, 많은 기업이 AI를 활용해 서비스[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215878">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215878#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C-%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9-%EA%B5%AC%EB%8F%85%ED%98%95-%EC%83%9D%EC%84%B1-AI-%EA%B0%9C%EB%B0%9C%ED%88%B4-%E2%80%98%EC%9B%90%ED%8B%B0%EB%93%9C-LaaS%E2%80%99-%EC%B6%9C%EC%8B%9C-640x280.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 단신] 오드아이, 문다, 브이투브이, 한국신용데이터, 마로솔, 비즈니스캔버스, 스위트스팟]]></title>
+            <link>https://platum.kr/archives/215827</link>
+            <guid>https://platum.kr/archives/215827</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215827" title="[스타트업 단신] 오드아이, 문다, 브이투브이, 한국신용데이터, 마로솔, 비즈니스캔버스, 스위트스팟">[스타트업 단신] 오드아이, 문다, 브이투브이, 한국신용데이터, 마로솔, 비즈니스캔버스, 스위트스팟</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215827">Posted On 2023/10/26</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215827">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/첨부1-페이워치-글로벌-C레벨-단체사진-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   스스로 곡을 해석해 부르는 AI 보컬… 오드아이, 박새별 신규 앨범 참여하며 기술력 입증 생성형 AI 보컬 스타트업 ‘오드아이’가 싱어송라이터 박새별의 신보 ‘Everblooming’(에버블루밍)에 참여해, 자체 AI 기술로 만든 보컬이 담긴 음원을 발매하며 프로 무대[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215827">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215827#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/%EC%B2%A8%EB%B6%801-%ED%8E%98%EC%9D%B4%EC%9B%8C%EC%B9%98-%EA%B8%80%EB%A1%9C%EB%B2%8C-C%EB%A0%88%EB%B2%A8-%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[론칭 2주년 ‘혁신의숲’, 스타트업 생태계 플랫폼으로 자리매김]]></title>
+            <link>https://platum.kr/archives/215782</link>
+            <guid>https://platum.kr/archives/215782</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215782" title="론칭 2주년 ‘혁신의숲’, 스타트업 생태계 플랫폼으로 자리매김">론칭 2주년 ‘혁신의숲’, 스타트업 생태계 플랫폼으로 자리매김</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215782">Posted On 2023/10/25</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215782">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/inno-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   스타트업 성장 분석 플랫폼 ‘혁신의숲’이 25일 출시 2주년을 맞이하였다. 2주년을 기념하여 그 동안의 성과와 앞으로의 비전을 담은 리포트도 발표하였다. ‘혁신의숲’은 스타트업의 성장을 파악할 수 있는 다양한 데이터를 제공하며, 정보의 투명성과 접[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215782">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215782#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/inno-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 단신] 코코지, 채널코퍼레이션, 어밸브, 인프랩, 넛지헬스케어, 뤼이드, 고수플러스, 코딧]]></title>
+            <link>https://platum.kr/archives/215686</link>
+            <guid>https://platum.kr/archives/215686</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215686" title="[스타트업 단신] 코코지, 채널코퍼레이션, 어밸브, 인프랩, 넛지헬스케어, 뤼이드, 고수플러스, 코딧">[스타트업 단신] 코코지, 채널코퍼레이션, 어밸브, 인프랩, 넛지헬스케어, 뤼이드, 고수플러스, 코딧</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215686">Posted On 2023/10/24</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215686">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/coco-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   코코지, 아이들의 오디오 콘텐츠 학습∙반응패턴 생생한 피드백 공유하는 ‘관찰 리뷰’ 기능 도입 IoT 기반 키즈 오디오 플랫폼 기업 코코지가 양육자들이 아이들의 실제 반응 피드백을 공유하는 관찰 리뷰 기능을 도입한다. 기존의 콘텐츠 리뷰들은 유저들의 단순 별점식 평가 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215686">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215686#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/coco-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포토위젯, 서비스 출시 3년 만에 누적 사용자 4000만]]></title>
+            <link>https://platum.kr/archives/215704</link>
+            <guid>https://platum.kr/archives/215704</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215704" title="포토위젯, 서비스 출시 3년 만에 누적 사용자 4000만">포토위젯, 서비스 출시 3년 만에 누적 사용자 4000만</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215704">Posted On 2023/10/24</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215704">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/oho-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   모바일 라이프 서비스 기업 포토위젯에서 운영 중인 앱 서비스 ‘PhotoWidget’이 출시 이후 3년 만에 누적 사용자 4000만을 넘어섰다. PhotoWidget은 이용자들이 자신의 개성을 모바일에 쉽고 간편하게 표현할 수 있도록 커스터마이징 기능을 제공하는 iOS[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215704">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215704#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/oho-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 사진 플랫폼 ‘캐럿’, 가입자수 100만 명]]></title>
+            <link>https://platum.kr/archives/215696</link>
+            <guid>https://platum.kr/archives/215696</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215696" title="AI 사진 플랫폼 ‘캐럿’, 가입자수 100만 명">AI 사진 플랫폼 ‘캐럿’, 가입자수 100만 명</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215696">Posted On 2023/10/24</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215696">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/cc-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   AI 사진 플랫폼 ‘캐럿’이 누적 가입자수 100만 명을 넘어섰다. 지난 4월 말, 국내 최초로 이미지 생성 AI를 활용한 ‘AI 프로필’ 서비스를 출시한 지 6개월만에 달성한 기록이다. 캐럿은 누구나 쉽고 간편하게 다양한 스타일의 AI 사진을 만들 수 있는 사진 생성[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215696">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215696#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/cc-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 단신] 리디, 본작, 브리즘, H2O호스피탈리티, 정글북]]></title>
+            <link>https://platum.kr/archives/215620</link>
+            <guid>https://platum.kr/archives/215620</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215620" title="[스타트업 단신] 리디, 본작, 브리즘, H2O호스피탈리티, 정글북">[스타트업 단신] 리디, 본작, 브리즘, H2O호스피탈리티, 정글북</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215620">Posted On 2023/10/23</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215620">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/Manta-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   리디, 아마존 출신 김태훈 ‘만타’ CIC 대표 영입 콘텐츠 플랫폼 기업 리디가 글로벌 웹툰 구독 서비스 ‘만타(Manta)’ 사업부문을 사내독립기업(CIC)으로 승격하고, 아마존 출신의 김태훈 전 클래스 101 최고제품책임자(CPO)를 ‘만타(M[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215620">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215620#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/Manta-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 단신] 브랜디, 북아이피스, 어밸브, 온브릭스]]></title>
+            <link>https://platum.kr/archives/215540</link>
+            <guid>https://platum.kr/archives/215540</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215540" title="[스타트업 단신] 브랜디, 북아이피스, 어밸브, 온브릭스">[스타트업 단신] 브랜디, 북아이피스, 어밸브, 온브릭스</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215540">Posted On 2023/10/20</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215540">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/brandy-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   브랜디, AI광고 도입 7개월 만에 판매자 거래액 400억원 늘었다 커머스에서 인공지능(AI)에 대한 중요성이 급부상하고 있는 가운데, 브랜디가 올해 3월 AI광고 서비스를 전면 도입한 후 상품 노출 수가 약 20억 회를 기록하고, 광고를 통한 전환 거래액이 400억원[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215540">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215540#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/brandy-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노타, CB 인사이트의 AI 최적화 부문 글로벌 대표 기업으로 국내 유일 선정]]></title>
+            <link>https://platum.kr/archives/215565</link>
+            <guid>https://platum.kr/archives/215565</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215565" title="노타, CB 인사이트의 AI 최적화 부문 글로벌 대표 기업으로 국내 유일 선정">노타, CB 인사이트의 AI 최적화 부문 글로벌 대표 기업으로 국내 유일 선정</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215565">Posted On 2023/10/20</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215565">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/no-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   AI 모델 최적화 기술 기업 노타가 CB 인사이트(CB Insights)에서 발표한 ‘LLMOps Market Map’의 AI 최적화(Hardware-aware AI optimization) 부문 대표 기업으로 선정됐다. CB 인사이트는 글로벌 시장조사 기업으로 기업 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215565">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215565#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/no-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아이지에이웍스, 마켓 인텔리전스 플랫폼  모바일인덱스인사이트 누적 고객 ‘100만’]]></title>
+            <link>https://platum.kr/archives/215531</link>
+            <guid>https://platum.kr/archives/215531</guid>
+            <pubDate>Thu, 26 Oct 2023 01:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/215531" title="아이지에이웍스, 마켓 인텔리전스 플랫폼  모바일인덱스인사이트 누적 고객 ‘100만’">아이지에이웍스, 마켓 인텔리전스 플랫폼  모바일인덱스인사이트 누적 고객 ‘100만’</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/215531">Posted On 2023/10/20</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/215531">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/10/ig-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   빅데이터 플랫폼 기업 아이지에이웍스의 모바일 이용성 지표 분석 솔루션 모바일인덱스인사이트의 누적 고객 수가 100만을 넘어섰다. 모바일인덱스인사이트는 4300만 규모의 활성 오디언스 데이터를 분석해 앱 운영 및 경쟁 현황의 객관적 진단을 지원하는 플랫폼으로, 구글플레이[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/215531">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/215531#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/10/ig-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

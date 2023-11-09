@@ -4,7 +4,7 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 03:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -93,6 +95,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -136,6 +140,71 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2023/11/1699407871934-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다음세대재단, 청도혁신센터와 함께 비영리스타트업 육성을 위한 교육-멘토링 진행]]></title>
+            <link>https://platum.kr/archives/216919</link>
+            <guid>https://platum.kr/archives/216919</guid>
+            <pubDate>Thu, 09 Nov 2023 04:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/216919" title="다음세대재단, 청도혁신센터와 함께 비영리스타트업 육성을 위한 교육-멘토링 진행">다음세대재단, 청도혁신센터와 함께 비영리스타트업 육성을 위한 교육-멘토링 진행</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/216919">Posted On 2023/11/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/216919">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/11/aaa-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   다음세대재단과 청도혁신센터가 지역 비영리 생태계 조성을 목표로 파트너십을 맺고, 10월 24일부터 11월 8일까지 &lt;경북-청도 비영리 스타트업 육성을 위한 교육・멘토링&gt; 사업을 진행했다. &lt;경북-청도 비영리 스타트업 육성을 위한 교육-멘토링&gt; 사업[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/216919">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/216919#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/11/aaa-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[컴업 2023] 사우디아라비아, 몬샤아트 중심 대규모 사절단 방한]]></title>
@@ -599,71 +668,6 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2023/11/fgdg-640x427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 스타트업 지원 정책 ‘라 프렌치 테크’ 10주년]]></title>
-            <link>https://platum.kr/archives/216587</link>
-            <guid>https://platum.kr/archives/216587</guid>
-            <pubDate>Wed, 08 Nov 2023 13:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/event">Event</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/event">Event</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/216587" title="프랑스 스타트업 지원 정책 ‘라 프렌치 테크’ 10주년">프랑스 스타트업 지원 정책 ‘라 프렌치 테크’ 10주년</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/216587">Posted On 2023/11/06</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/216587">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2023/11/이미지-‘라-프렌치-테크La-French-Tech’-10주년-기념-행사-진행_2-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   한불상공회의소(FKCCI)가 한국과 프랑스의 스타트업 교류를 위한 ‘테크포굿 투어 2023(Tech4Good Tour 2023)’ 기간 중, ‘라 프렌치 테크(La French Tech)’ 창립 10주년을 맞아 6일 노보텔 동대문에서 기념행사를 개최한다. 라 프렌치 테[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/216587">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/216587#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2023/11/%EC%9D%B4%EB%AF%B8%EC%A7%80-%E2%80%98%EB%9D%BC-%ED%94%84%EB%A0%8C%EC%B9%98-%ED%85%8C%ED%81%ACLa-French-Tech%E2%80%99-10%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%96%89%EC%82%AC-%EC%A7%84%ED%96%89_2-640x427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

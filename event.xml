@@ -4,7 +4,7 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 06:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,13 +44,20 @@
 			   
 			   <br class="clear">
 	    	
-	    					   
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/219324">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/OLIVE-YOUNG-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
 			   	<br class="clear">
 				<!-- 원본 소스 BEGIN -->
 								<!-- 원본 소스 END -->
 
 			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   &nbsp; ‘2023 올리브영 어워즈&amp;페스타’가 13일 서울 동대문디자인플라자(DDP)에서 막을 올렸다. 올해 행사는 소비자와 뷰티 브랜드를 잇는 가교 역할을 넘어서, 뷰티 스타트업부터 글로벌 유통 플랫폼까지 아우르는 ‘K뷰티 산업생태계’의 한 축으로 진화했다[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   ‘2023 올리브영 어워즈&amp;페스타’가 13일 서울 동대문디자인플라자(DDP)에서 막을 올렸다. 올해 행사는 소비자와 뷰티 브랜드를 잇는 가교 역할을 넘어서, 뷰티 스타트업부터 글로벌 유통 플랫폼까지 아우르는 ‘K뷰티 산업생태계’의 한 축으로 진화했다는 점에서 의[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
 			   <br class="clear">
 			    
 			   <div class="post_button_wrapper">
@@ -63,6 +70,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/OLIVE-YOUNG-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경남 창업생태계 한해 결산하는 ‘경남 창업인의 밤’ 열려]]></title>

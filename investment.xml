@@ -4,7 +4,7 @@
         <title>플래텀 ─ Financing</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 10:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,6 +19,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -28,6 +30,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
@@ -47,7 +51,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/220047">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/5b888ae6-7ff8-cd80-9d3c-90ed0327d345-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/ta-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -70,7 +74,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/5b888ae6-7ff8-cd80-9d3c-90ed0327d345-640x427.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/ta-1-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초음파 설비진단 AI솔루션 ‘모빅랩’, 15억 원 규모 프리 A 투자 유치]]></title>

@@ -1,8 +1,670 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/investment</id>
-    <title>플래텀 ─ Financing</title>
-    <updated>2023-12-29T12:19:09.411Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Financing</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 29 Dec 2023 13:14:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] “홍콩 스타트업 생태계는 ‘사이버포트’ 전과 후로 나뉜다.”]]></title>
+            <link>https://platum.kr/archives/219533</link>
+            <guid>https://platum.kr/archives/219533</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/china">China</a>
+											&nbsp;/
+											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/china">China</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/219533" title="[인터뷰] “홍콩 스타트업 생태계는 ‘사이버포트’ 전과 후로 나뉜다.”">[인터뷰] “홍콩 스타트업 생태계는 ‘사이버포트’ 전과 후로 나뉜다.”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/219533">Posted On 2023/12/29</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/219533">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/DSCF2079-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   중국시장 진출을 위한 교두보이자 ‘중국으로 향한 창(窓)’이 되어 호황기를 맞던 홍콩이 2000년 대 초반 성장 한계에 부딪치며 꺼내든 카드가 창업 생태계를 조성하는 것이었다. 구체적으로 정부가 대규모 자금을 들여 신산업 육성의 메카 ‘[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/219533">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/219533#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/DSCF2079-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[증강현실 기반 재활 게임 개발 ‘잼잼테라퓨틱스’, 3억 원 시드 투자 유치]]></title>
+            <link>https://platum.kr/archives/220315</link>
+            <guid>https://platum.kr/archives/220315</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220315" title="증강현실 기반 재활 게임 개발 ‘잼잼테라퓨틱스’, 3억 원 시드 투자 유치">증강현실 기반 재활 게임 개발 ‘잼잼테라퓨틱스’, 3억 원 시드 투자 유치</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220315">Posted On 2023/12/29</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220315">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/unnamed-20-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   특수 교육 및 재활을 위한 증강현실(AR) 게임 개발 전문 기업 잼잼테라퓨틱스가 3억원 규모 시드 투자를 유치했다. 이번 투자 유치에는 한국투자액셀러레이터와 디지털 헬스케어 파트너스(DHP)가 참여했다. 잼잼테라퓨틱스는 발달이 느린 아이들을 위한 재활 솔루션 ̵[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220315">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220315#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/unnamed-20-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탈모 홈케어 스타트업 ‘리필드’, 10억 원 규모 투자 유치]]></title>
+            <link>https://platum.kr/archives/220311</link>
+            <guid>https://platum.kr/archives/220311</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220311" title="탈모 홈케어 스타트업 ‘리필드’, 10억 원 규모 투자 유치">탈모 홈케어 스타트업 ‘리필드’, 10억 원 규모 투자 유치</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220311">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220311">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/bal-640x382.png" alt="" class="" style="width:640px;height:382px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   탈모 홈케어 브랜드 리필드(Refilled)’ 운영사인 콘스탄트가 신용보증기금으로부터 10억 원 규모의 시리즈 A1 투자를 유치했다. 회사는 앞서 중기부 팁스(TIPS) 프로그램에 선정되어 5억 원의 지원금을 확보한 바 있다. 리필드는 탈모에 대한 과학적 연[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220311">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220311#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/bal-640x382.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴본벤처스, 올해 6개 기업에 22.6억 원 투자]]></title>
+            <link>https://platum.kr/archives/220307</link>
+            <guid>https://platum.kr/archives/220307</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220307" title="뉴본벤처스, 올해 6개 기업에 22.6억 원 투자">뉴본벤처스, 올해 6개 기업에 22.6억 원 투자</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220307">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220307">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/newborn-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   뉴본벤처스가 2023년 6개 기업에 22.6억 원(12월 27일기준)의 투자를 집행했다. 지난해(12억) 대비 두 배 가량 증가한 수치이다. 뉴본벤처스가 2023년 신규 투자한 기업은 디어그린(제로에너지 건축인증 B2B SAAS기업), 이십사점오(대학생 인재매칭 플랫폼[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220307">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220307#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/newborn-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씨엔티테크, 2023년 78개사에 120억원 투자…누적 포트폴리오 370개사]]></title>
+            <link>https://platum.kr/archives/220298</link>
+            <guid>https://platum.kr/archives/220298</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220298" title="씨엔티테크, 2023년 78개사에 120억원 투자…누적 포트폴리오 370개사">씨엔티테크, 2023년 78개사에 120억원 투자…누적 포트폴리오 370개사</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220298">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220298">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/cnt-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   씨엔티테크가 2023년 올 한 해 총 120억원, 78건의 초기 기업 투자를 시행했다. 누적 포트폴리오 수는 370건이다. 아울러 중기부가 시행하는 팁스(TIPS) 사업의 운영사로 올해 직간접적으로 연간 43건의 팁스 매칭도 성사됐다. 올해 씨엔티테크가 투자한 포트폴리[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220298">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220298#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/cnt-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기차 배터리팩 열폭주 지연 소재 개발사 ‘윌코’, 한세예스24파트너스에서 투자 유치]]></title>
+            <link>https://platum.kr/archives/220254</link>
+            <guid>https://platum.kr/archives/220254</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220254" title="전기차 배터리팩 열폭주 지연 소재 개발사 ‘윌코’, 한세예스24파트너스에서 투자 유치">전기차 배터리팩 열폭주 지연 소재 개발사 ‘윌코’, 한세예스24파트너스에서 투자 유치</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220254">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220254">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/WILCO-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   전기차 배터리팩 열폭주 지연 소재를 개발하고 있는 윌코가 한세예스24파트너스로부터 투자를 유치했다. 금액은 비공개이다. 윌코는 전기차 배터리팩 열폭주 환경인 1200℃ 이상의 화염에서 60분 이상 견디며, 열 차단 성능이 뛰어난 1 mm 두께의 복합체 시트를 개발했다.[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220254">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220254#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/WILCO-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아트 커머스 스타트업 ‘콜론 30’, 씨엔티테크에서 투자 유치]]></title>
+            <link>https://platum.kr/archives/220269</link>
+            <guid>https://platum.kr/archives/220269</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220269" title="아트 커머스 스타트업 ‘콜론 30’, 씨엔티테크에서 투자 유치">아트 커머스 스타트업 ‘콜론 30’, 씨엔티테크에서 투자 유치</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220269">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220269">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/image-2-1-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   아트 커머스 플랫폼 ‘난트(NANT)’를 운영하는 콜론 30이 씨엔티테크로부터 투자를 유치했다. 금액은 비공개이다. 난트는 1차 시장과 리세일 시장을 융합한 C2C 오픈 플랫폼으로 작가, 갤러리, 그리고 컬렉터 간에 자유로운 거래의 장을 제공한다. 2022년 서비스 오[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220269">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220269#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/image-2-1-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[씨엔티테크, 캘린더앱 ‘캘링’ 개발사 ‘와이낫스피릿’에 투자]]></title>
+            <link>https://platum.kr/archives/220238</link>
+            <guid>https://platum.kr/archives/220238</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220238" title="씨엔티테크, 캘린더앱 ‘캘링’ 개발사 ‘와이낫스피릿’에 투자">씨엔티테크, 캘린더앱 ‘캘링’ 개발사 ‘와이낫스피릿’에 투자</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220238">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220238">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/bb-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   씨엔티테크가 식사 약속 기반의 일정 매칭/관리 특화 캘린더앱 ‘캘링’ 개발사 와이낫스피릿에 투자했다. 금액은 비공개이다. 와이낫스피릿은 기존의 식사 약속 과정에서 불필요한 절차를 생략하는데 주력해 사람들이 빠르게 일정을 잡고 약속을 간편하게 관리하게 도와주는 서비스인 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220238">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220238#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/bb-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[더인벤션랩, 디지털 학원 프랜차이즈 ‘수심달’에 후속 투자 진행]]></title>
+            <link>https://platum.kr/archives/220234</link>
+            <guid>https://platum.kr/archives/220234</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220234" title="더인벤션랩, 디지털 학원 프랜차이즈 ‘수심달’에 후속 투자 진행">더인벤션랩, 디지털 학원 프랜차이즈 ‘수심달’에 후속 투자 진행</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220234">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220234">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/unnamed-19-640x405.jpg" alt="" class="" style="width:640px;height:405px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   스타트업 초기투자기관이자 팁스운영사인 더인벤션랩이 운용 중인 조합을 통해 ‘수학에심장을달다’(이하 수심달)에 후속 투자했다. 규모는 비공개다. 수심달은 이번 투자유치를 기반으로 양질의 자체 콘텐츠를 확보하고, 정제된 데이터들을 기반으로 학습 데이터에 연결된 개념 코드 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220234">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220234#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/unnamed-19-640x405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타씨드, 엔젤투자 유치…생성형 AI 기반 PR SaaS ‘퓰리처AI’ 출시 임박]]></title>
+            <link>https://platum.kr/archives/220232</link>
+            <guid>https://platum.kr/archives/220232</guid>
+            <pubDate>Fri, 29 Dec 2023 13:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/220232" title="스타씨드, 엔젤투자 유치…생성형 AI 기반 PR SaaS ‘퓰리처AI’ 출시 임박">스타씨드, 엔젤투자 유치…생성형 AI 기반 PR SaaS ‘퓰리처AI’ 출시 임박</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/220232">Posted On 2023/12/28</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/220232">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/star-640x355.png" alt="" class="" style="width:640px;height:355px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   차세대 PR기술 개발사 스타씨드(Starseed)가 엔젤 투자 유치를 했다. 금액은 비공개이다. 스타씨드는 생성형 AI 기술을 통해 글로벌 시장을 목표로 하는 PR SaaS(Software as a Service) 서비스 ‘퓰리처AI(Pulitzer AI)&amp;[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/220232">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/220232#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/star-640x355.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

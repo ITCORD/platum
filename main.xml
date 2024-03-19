@@ -4,7 +4,7 @@
         <title>플래텀 ─ Main</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 06:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -434,7 +434,7 @@
 					<span>
 											<a href="https://platum.kr/startup-3">Main</a>
 											&nbsp;/
-											<a href="https://platum.kr/uncategorized">Uncategorized</a>
+											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
 			-->
@@ -445,7 +445,7 @@
 						<span>
 					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
-					    					        <a href="https://platum.kr/uncategorized">Uncategorized</a>
+					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->

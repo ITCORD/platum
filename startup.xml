@@ -4,11 +4,11 @@
         <title>플래텀 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 00:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 01:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[당근, 창사 8년 만 첫 연간 흑자 달성…2023년 매출 1276억 원, 영업이익 173억 원 기록]]></title>
+            <title><![CDATA[당근, 창사 8년 만 첫 연간 흑자…”하이퍼로컬 비전 강화할 것”]]></title>
             <link>https://platum.kr/archives/225284</link>
             <guid>https://platum.kr/archives/225284</guid>
             <pubDate>Fri, 29 Mar 2024 00:44:43 GMT</pubDate>
@@ -18,6 +18,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -27,11 +29,13 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/225284" title="당근, 창사 8년 만 첫 연간 흑자 달성…2023년 매출 1276억 원, 영업이익 173억 원 기록">당근, 창사 8년 만 첫 연간 흑자 달성…2023년 매출 1276억 원, 영업이익 173억 원 기록</a></h5>
+						      	<h5><a href="https://platum.kr/archives/225284" title="당근, 창사 8년 만 첫 연간 흑자…”하이퍼로컬 비전 강화할 것”">당근, 창사 8년 만 첫 연간 흑자…”하이퍼로컬 비전 강화할 것”</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
@@ -47,7 +51,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/225284">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2024/03/2023-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/03/20210528_190155-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -70,7 +74,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2024/03/2023-640x427.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/03/20210528_190155-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지원금 받는 차량 거래 서비스 ‘카딩’ 론칭]]></title>
@@ -345,6 +349,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -355,6 +361,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>

@@ -4,7 +4,7 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 00:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 01:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,7 +112,7 @@
 	    						
 				    <div class="post_img">
 				        <a href="https://platum.kr/archives/225228">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2024/03/mm-3-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/03/433259791_7957883807579329_4697684634095233743_n-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
 					    </a>
 				    </div>
 				
@@ -135,7 +135,7 @@
 				
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2024/03/mm-3-640x427.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/03/433259791_7957883807579329_4697684634095233743_n-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IP 스타트업과 함께한 3월 ‘디데이’…’퍼스트랩’과 ‘엠씨이’ 수상]]></title>
@@ -150,6 +150,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -160,6 +162,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>

@@ -1,8 +1,697 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/trends</id>
-    <title>플래텀 ─ Trends</title>
-    <updated>2024-05-14T17:12:31.711Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Trends</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 May 2024 18:16:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 빠르게 성장하는 몽골 창업 생태계에서 한국이 배울 점]]></title>
+            <link>https://platum.kr/archives/227808</link>
+            <guid>https://platum.kr/archives/227808</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227808" title="[기고] 빠르게 성장하는 몽골 창업 생태계에서 한국이 배울 점">[기고] 빠르게 성장하는 몽골 창업 생태계에서 한국이 배울 점</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227808">Posted On 2024/05/14</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227808">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/DSC09481-2048x1365-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   팬더믹이 잦아든 2024년, 드디어 몽골에 방문했습니다. 2024년 4월 몽골의 대표적인 사회혁신 액셀러레이터 KITE의 설립자 볼로르마 루브산도르(Bolormaa Luvsandorj) 대표로부터 반가운 연락이 왔거든요. 몽골의 사회혁신 생태계 활성화를 위한 KITE에[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227808">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227808#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/DSC09481-2048x1365-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변승규의 스타트업 법률 CASE STUDY] #31. 일반기업의 RSU(양도제한조건부주식)]]></title>
+            <link>https://platum.kr/archives/227728</link>
+            <guid>https://platum.kr/archives/227728</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227728" title="[변승규의 스타트업 법률 CASE STUDY] #31. 일반기업의 RSU(양도제한조건부주식)">[변승규의 스타트업 법률 CASE STUDY] #31. 일반기업의 RSU(양도제한조건부주식)</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/hoseok-jung"><span class="gravatar"><img alt="법무법인 세움" src="https://platum.kr/wp-content/uploads/2019/02/정호석_avatar_1549859856-60x60.png" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">법무법인 세움</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227728">Posted On 2024/05/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227728">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/RSU-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   스타트업이 임직원 등에게 줄 수 있는 대표적인 주식연계보상(주식기준보상)으로는 주식매수선택권(Stock Option)이 있습니다. 그러나 상법 및 벤처기업육성에 관한 특별조치법(이하 “벤처기업법”)에서 주식매수선택권을 부여받을 수 있는 자의 자격, 재직 요건, 행사가격[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227728">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227728#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/RSU-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日골든위크·中노동절 기간 외국인에 사랑받은 국내 토종 여행앱]]></title>
+            <link>https://platum.kr/archives/227716</link>
+            <guid>https://platum.kr/archives/227716</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227716" title="日골든위크·中노동절 기간 외국인에 사랑받은 국내 토종 여행앱">日골든위크·中노동절 기간 외국인에 사랑받은 국내 토종 여행앱</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227716">Posted On 2024/05/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227716">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/data.ai_-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   최근 일본 최대 연휴 골든위크(4월26일~5월6일)와 중국의 노동절 연휴(5월1일~5월5일)로 한국 여행을 즐긴 외국인 관광객이 대폭 증가했다. 이에 국내 토종 여행앱을 향한 외국인의 관심도 커졌다. 특히 다운로드 상위 100위 내에 안착하는 등 국내 토종 여행앱의 인[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227716">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227716#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/data.ai_-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 1분기 벤처투자 1.9조원 · 펀드결성 2.4조원]]></title>
+            <link>https://platum.kr/archives/227689</link>
+            <guid>https://platum.kr/archives/227689</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/investment">Investment</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227689" title="2024년 1분기 벤처투자 1.9조원 · 펀드결성 2.4조원">2024년 1분기 벤처투자 1.9조원 · 펀드결성 2.4조원</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227689">Posted On 2024/05/13</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227689">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/436329492_10162126657647125_7419861144039836337_n-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   중소벤처기업부는 13일(월) 경제부총리 주재 비상경제장관회의에서 2024년 1분기 국내 벤처투자 및 펀드결성 동향을 포함한 ｢벤처투자 현황 진단 및 대응 방안｣을 발표했다. 2024년 1분기 국내 벤처투자 시장의 주요 동향 및 시사점은 다음과 같다. 첫 번째, 2023[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227689">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227689#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/436329492_10162126657647125_7419861144039836337_n-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한-일 스타트업 교류 거점  ‘K-스타트업센터 도쿄’ 개소]]></title>
+            <link>https://platum.kr/archives/227669</link>
+            <guid>https://platum.kr/archives/227669</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227669" title="한-일 스타트업 교류 거점  ‘K-스타트업센터 도쿄’ 개소">한-일 스타트업 교류 거점  ‘K-스타트업센터 도쿄’ 개소</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227669">Posted On 2024/05/12</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227669">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/436410230_10162126657767125_619813191099224942_n-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   우수한 국내 스타트업의 일본진출거점이자 일본 현지 창업생태계와 교류의 장이 될 K-스타트업센터 도쿄가 10일 개소했다. 경제·사회·문화 각 분야에서 한일간 교류가 확대되는 상황에서, 최근 일본의 창업생태계가 빠르게 성장하고, 일본진출을 희망하는 국내 스타트업이 증가하고[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227669">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227669#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/436410230_10162126657767125_619813191099224942_n-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 기업 10곳 중 6곳, 업무자동화에 생성형 AI 도입]]></title>
+            <link>https://platum.kr/archives/227533</link>
+            <guid>https://platum.kr/archives/227533</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227533" title="글로벌 기업 10곳 중 6곳, 업무자동화에 생성형 AI 도입">글로벌 기업 10곳 중 6곳, 업무자동화에 생성형 AI 도입</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227533">Posted On 2024/05/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227533">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/dd-1-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   딜로이트 글로벌과 포춘(Fortune)이 공동으로 진행한 ‘글로벌 CEO 서베이’에 따르면,&nbsp;업무 자동화 부문에 생성형AI를 채택 중인 CEO는 58%, 자동화 영역 외 생성형 AI 도입 계획을 보유한 CEO는 48%에 달했다. 또한 글로벌 기업 CEO 10명 중 8명[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227533">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227533#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/dd-1-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[회계법인 마일스톤의 스타트업 CFO Case Study] 회사 정관 작성 시 반영해 두면 좋은 사항들]]></title>
+            <link>https://platum.kr/archives/227363</link>
+            <guid>https://platum.kr/archives/227363</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227363" title="[회계법인 마일스톤의 스타트업 CFO Case Study] 회사 정관 작성 시 반영해 두면 좋은 사항들">[회계법인 마일스톤의 스타트업 CFO Case Study] 회사 정관 작성 시 반영해 두면 좋은 사항들</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mstacc"><span class="gravatar"><img alt="회계법인 마일스톤" src="https://platum.kr/wp-content/uploads/2024/03/회계법인-마일스톤_avatar_1710914999-60x60.png" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">회계법인 마일스톤</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227363">Posted On 2024/05/07</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227363">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/01/image001.jpg" alt="" class="" style="width:542px;height:363px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   회사를 설립 할 때 챙겨야 하는 사항은 한두가지가 아니다. 이중, 소위 “법인의 헌법”이라고 불리는 정관 작성은 회사의 조직 구성 및 영업활동에 관한 근본 규칙을 정하는 것으로 법인 설립 시점에 수행해야 하는 중요한 절차 중 하나이다. 다만, 회사의 정관은 상법을 따라[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227363">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227363#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/01/image001.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상표권자로서 당연히 해야할 일]]></title>
+            <link>https://platum.kr/archives/227366</link>
+            <guid>https://platum.kr/archives/227366</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227366" title="상표권자로서 당연히 해야할 일">상표권자로서 당연히 해야할 일</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/contribution"><span class="gravatar"><img alt="외부기고" src="https://platum.kr/wp-content/uploads/2016/06/외부기고_avatar_1465440121-60x60.png" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">외부기고</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227366">Posted On 2024/05/06</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227366">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/ce09fac6-2da7-4568-932b-1dc0c0e0ba99-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   우리나라 특허청에 등록된 상표권의 수는 몇개나 될까? 특허, 상표 등을 무료로 검색할 수 있는 검색사이트인 키프리스에 검색을 해보니, 우리나라에 현재까지 등록이 되어 유지되고 있는 상표권은 약 200만개에 달한다. 개인사업자들의 상표권에 관한 인식수준이 높아지면서, 2[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227366">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227366#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/ce09fac6-2da7-4568-932b-1dc0c0e0ba99-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4월 쿠팡이츠 앱 사용자 697만 명…요기요와 격차 더 벌려]]></title>
+            <link>https://platum.kr/archives/227334</link>
+            <guid>https://platum.kr/archives/227334</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227334" title="4월 쿠팡이츠 앱 사용자 697만 명…요기요와 격차 더 벌려">4월 쿠팡이츠 앱 사용자 697만 명…요기요와 격차 더 벌려</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/wiseapp"><span class="gravatar"><img alt="wiseapp" src="https://platum.kr/wp-content/uploads/2016/06/wiseapp_avatar_1467220820-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">wiseapp</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227334">Posted On 2024/05/06</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227334">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/240507_image1-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   2024년 4월 쿠팡이츠 앱 사용자는 697만 명, 요기요 앱 사용자는 576만 명을 기록한 것으로 조사됐다. 24년 3월 쿠팡이츠는 출시 이후 최초로 요기요를 제치고 배달앱 사용자 2위로 올라선 뒤 4월에도 2위를 유지했다. 특히 지난 4월 쿠팡이츠와 요기요 앱 사용[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227334">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227334#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/240507_image1-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생성형 AI 스타트업 창업으로 이어진 네 번의 전환점]]></title>
+            <link>https://platum.kr/archives/226627</link>
+            <guid>https://platum.kr/archives/226627</guid>
+            <pubDate>Tue, 14 May 2024 18:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+											&nbsp;/
+											<a href="https://platum.kr/workinsight">Workinsight</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/trends">Trends</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/workinsight">Workinsight</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/226627" title="생성형 AI 스타트업 창업으로 이어진 네 번의 전환점">생성형 AI 스타트업 창업으로 이어진 네 번의 전환점</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/226627">Posted On 2024/05/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/226627">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/05/53671235715_eddf961dfc_o-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   신용보증기금 주최로 지난 4월 22일 구글 스타트업 캠퍼스에서 열린 ‘스타트업 플레이 그라운드’ 오프닝 데이 행사(Start-up PLAY GROUND Openning DAY)에서 이세영 뤼튼테크놀로지스 대표가 연사로 나서 자신의 창업 과정을 특강[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/226627">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/226627#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/05/53671235715_eddf961dfc_o-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,8 +1,669 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/startup</id>
-    <title>플래텀 ─ Startup</title>
-    <updated>2024-06-09T20:15:31.891Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Startup</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 09 Jun 2024 21:13:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[투데이 스타트업] 플라이북, 모비두, 채널코퍼레이션, 플리토, 니어스랩]]></title>
+            <link>https://platum.kr/archives/228902</link>
+            <guid>https://platum.kr/archives/228902</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228902" title="[투데이 스타트업] 플라이북, 모비두, 채널코퍼레이션, 플리토, 니어스랩">[투데이 스타트업] 플라이북, 모비두, 채널코퍼레이션, 플리토, 니어스랩</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228902">Posted On 2024/06/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228902">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/sa-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   플라이북 AI 도서 추천 시스템 도입 도서관 200개관 넘어 독서 SNS 플라이북의 AI(인공지능) 도서추천 시스템 ‘플라이북 AI’를 도입한 도서관이 200개관을 넘어섰다. ‘플라이북 AI’는 도서관에 방문한 사람들이 책을 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228902">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228902#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/sa-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[링크의 생성 AI 검색 모델, 엔비디아·구글·오픈에이아이 제쳐]]></title>
+            <link>https://platum.kr/archives/228914</link>
+            <guid>https://platum.kr/archives/228914</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228914" title="링크의 생성 AI 검색 모델, 엔비디아·구글·오픈에이아이 제쳐">링크의 생성 AI 검색 모델, 엔비디아·구글·오픈에이아이 제쳐</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228914">Posted On 2024/06/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228914">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/1717495293120.jpeg" alt="" class="" style="width:602px;height:386px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   생성형 AI 전문 스타트업 링크가 개발한 거대 임베딩 모델 ‘링크’가 허깅페이스의 ‘대량 텍스트 임베딩 벤치마크 리더보드(MTEB)’ 텍스트 검색 평가에서 엔비디아·세일즈포스·구글,오픈에이아이 등을 제치고 1위를 차지했다. MIT 전기컴퓨터 공학과 박사 출신 최찬열 대[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228914">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228914#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/1717495293120.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[마키나락스, 코스닥 상장예비심사 신청서 제출]]></title>
+            <link>https://platum.kr/archives/228910</link>
+            <guid>https://platum.kr/archives/228910</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228910" title="마키나락스, 코스닥 상장예비심사 신청서 제출">마키나락스, 코스닥 상장예비심사 신청서 제출</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228910">Posted On 2024/06/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228910">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/unnamed-3-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   산업 특화 AI 기업 마키나락스가 코스닥 상장예비심사 신청서를 제출했다. 상장주관사는 삼성증권이다. 마키나락스는 지난 5월 코스닥 혁신기술기업 특례상장을 위한 기술성평가에서 산업 특화형 AI 분야 ‘최초’로 A-A 등급을 획득했다. 마키나락스 임직원은 약 120명이며,[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228910">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228910#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/unnamed-3-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[법무법인 미션, 창립 3주년…”다음 세대를 위한 환대와 연대의 공동체 공동체 만들 것”]]></title>
+            <link>https://platum.kr/archives/228900</link>
+            <guid>https://platum.kr/archives/228900</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228900" title="법무법인 미션, 창립 3주년…”다음 세대를 위한 환대와 연대의 공동체 공동체 만들 것”">법무법인 미션, 창립 3주년…”다음 세대를 위한 환대와 연대의 공동체 공동체 만들 것”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228900">Posted On 2024/06/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228900">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/mission-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   법무법인 미션은 지난 5월 24일 금요일, 서울 반포한강공원 채빛섬에서 창립 3주년을 맞아 ‘다음 세대를 위한 환대와 연대의 공동체’라는 주제로 3주년 기념 행사를 개최했다. 행사는 법무법인 미션 김성훈 대표변호사의 기념사, 법무법인 미션과 빅뱅엔[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228900">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228900#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/mission-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투데이 스타트업] 알리콘, 프로메디우스, 한국축산데이터, 코드잇, 엑스와이지]]></title>
+            <link>https://platum.kr/archives/228834</link>
+            <guid>https://platum.kr/archives/228834</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228834" title="[투데이 스타트업] 알리콘, 프로메디우스, 한국축산데이터, 코드잇, 엑스와이지">[투데이 스타트업] 알리콘, 프로메디우스, 한국축산데이터, 코드잇, 엑스와이지</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228834">Posted On 2024/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228834">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/unnamed-2-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   알리콘, NICE그룹 오픈이노베이션 프로그램 선정… OKPOS와 AI 협업 추진 알리콘이 NICE 그룹의 오픈이노베이션 프로그램에 선정되어 협업을 진행한다. 이번 프로그램을 통해 알리콘은 사업화 지원금, 계열사와 PoC(Proof of Concept) 협업, 전략투자 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228834">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228834#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/unnamed-2-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[파킹클라우드 창업자, 렌털업 전문 ERP 스타트업으로 재창업]]></title>
+            <link>https://platum.kr/archives/228870</link>
+            <guid>https://platum.kr/archives/228870</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228870" title="파킹클라우드 창업자, 렌털업 전문 ERP 스타트업으로 재창업">파킹클라우드 창업자, 렌털업 전문 ERP 스타트업으로 재창업</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228870">Posted On 2024/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228870">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/hh-1-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   아이파킹 브랜드로 잘 알려진 파킹클라우드 창업자 신상용 대표가 2021년 NHN과 SK E&amp;S에 파킹클라우드 매각 후, 중소 렌털 사업자를 위한 SaaS(서비스형 소프트웨어) 스타트업 ‘프리핀스’를 창업했다. 파킹클라우드에서의 렌털 비즈니스[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228870">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228870#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/hh-1-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이달의 TIPS] 세이지리서치, 셀로이드, 에이엠매니지먼트, 아이리브, 프랜킷, 스포트라이트]]></title>
+            <link>https://platum.kr/archives/227343</link>
+            <guid>https://platum.kr/archives/227343</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/227343" title="[이달의 TIPS] 세이지리서치, 셀로이드, 에이엠매니지먼트, 아이리브, 프랜킷, 스포트라이트">[이달의 TIPS] 세이지리서치, 셀로이드, 에이엠매니지먼트, 아이리브, 프랜킷, 스포트라이트</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/227343">Posted On 2024/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/227343">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2022/09/tips-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   중소벤처기업부가 주관하는 팁스(TIPS, Tech Incubator Program for Startup)는 성장 가능성이 높이 평가되는 스타트업을 정부와 민간 투자사가 함께 발굴해 지원하는 민간 투자 주도형 기술 창업 지원 프로그램이다. 선정된 기업은 기술적으로 검증되[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/227343">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/227343#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2022/09/tips-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오모빌리티, 글로벌 전용 모빌리티 플랫폼 ‘케이라이드’ 출시]]></title>
+            <link>https://platum.kr/archives/228842</link>
+            <guid>https://platum.kr/archives/228842</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228842" title="카카오모빌리티, 글로벌 전용 모빌리티 플랫폼 ‘케이라이드’ 출시">카카오모빌리티, 글로벌 전용 모빌리티 플랫폼 ‘케이라이드’ 출시</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228842">Posted On 2024/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228842">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/kakao-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   카카오모빌리티가 외국인 전용 글로벌 모빌리티 플랫폼 ‘케이라이드(k.ride)를 출시했다. ‘케이라이드’는 현재 한국을 포함해 미국, 일본, 싱가포르, 중국 등 총 14개국의 앱스토어에서 다운로드 가능하다. 해당 14개국의 이용자들은 한국에서 바로 케이드라이드 앱을 통[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228842">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228842#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/kakao-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[투자 유치 플랫폼 ‘빅웨이브’, 유망 스타트업 15개사 선정]]></title>
+            <link>https://platum.kr/archives/228838</link>
+            <guid>https://platum.kr/archives/228838</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228838" title="투자 유치 플랫폼 ‘빅웨이브’, 유망 스타트업 15개사 선정">투자 유치 플랫폼 ‘빅웨이브’, 유망 스타트업 15개사 선정</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228838">Posted On 2024/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228838">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2023/12/IR-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   인천광역시와 인천창조경제혁신센터가 전국 최초로 조성한 인천빅웨이브모펀드 기반의 투자 유치 플랫폼인 ‘빅웨이브(BiiG Wave)’에 참여할 스타트업 15개사가 최종 선정되었다. ‘빅웨이브’ 운영기관인 인천창조경제혁신센터는 지난 한 달간 이 프로그램에 지원한 전국의 스타[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228838">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228838#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2023/12/IR-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이티센그룹, KCD 인터넷뱅크 컨소시엄 참여]]></title>
+            <link>https://platum.kr/archives/228824</link>
+            <guid>https://platum.kr/archives/228824</guid>
+            <pubDate>Sun, 09 Jun 2024 21:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/228824" title="아이티센그룹, KCD 인터넷뱅크 컨소시엄 참여">아이티센그룹, KCD 인터넷뱅크 컨소시엄 참여</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/228824">Posted On 2024/06/04</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/228824">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/06/ii-595x427.jpg" alt="" class="" style="width:595px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   종합IT서비스/컨설팅 그룹 아이티센그룹이 한국신용데이터(KCD)가 추진하고 있는 인터넷전문은행 컨소시엄에 참여 의사를 밝혔다. 한국신용데이터는 아이티센그룹이 KCD컨소시엄에 투자의향서를 전달했다. 아이티센그룹은 우리은행에 이어 2번째로 KCD 컨소시엄에 공식 참여 의사[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/228824">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/228824#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/06/ii-595x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/platum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-06T17:11:28.656Z</updated>
+    <updated>2024-07-06T18:15:24.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Startup)]]></title>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Main)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-06T17:09:53.925Z</updated>
+        <updated>2024-07-06T18:13:46.503Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/event">Event</a>
+											<a href="https://platum.kr/startup-3">Main</a>
 											&nbsp;/
-											<a href="https://platum.kr/startup">Startup</a>
+											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
 			-->
@@ -36,7 +36,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ China)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-06T17:10:16.902Z</updated>
+        <updated>2024-07-06T18:14:25.062Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -62,7 +62,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ Workinsight)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-06T17:10:41.187Z</updated>
+        <updated>2024-07-06T18:14:44.744Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -94,7 +94,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ Marketing)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-06T17:10:53.265Z</updated>
+        <updated>2024-07-06T18:14:55.519Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -119,19 +119,17 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Event)]]></title>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Business)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-06T17:11:16.649Z</updated>
+        <updated>2024-07-06T18:15:04.916Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/event">Event</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup">Startup</a>
+											<a href="https://platum.kr/business">Business</a>
 										</span>
 				</div>
 			-->
@@ -147,19 +145,19 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Blockchain)]]></title>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Event)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-06T17:11:27.985Z</updated>
+        <updated>2024-07-06T18:15:14.464Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/blockchain">Blockchain</a>
+											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
-											<a href="https://platum.kr/investment">Investment</a>
+											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
 			-->

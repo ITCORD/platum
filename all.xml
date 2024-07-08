@@ -2,24 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/platum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T06:19:05.266Z</updated>
+    <updated>2024-07-08T07:14:13.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Main)]]></title>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Entrepreneur)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-08T06:16:58.579Z</updated>
+        <updated>2024-07-08T07:12:44.596Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/event">Event</a>
+											<a href="https://platum.kr/entrepreneur">Entrepreneur</a>
 											&nbsp;/
 											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
 			-->
@@ -38,7 +36,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ Startup)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-08T06:17:23.667Z</updated>
+        <updated>2024-07-08T07:12:54.620Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -64,7 +62,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ China)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-08T06:17:49.643Z</updated>
+        <updated>2024-07-08T07:13:14.095Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -87,21 +85,17 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Event)]]></title>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Business)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-08T06:18:52.547Z</updated>
+        <updated>2024-07-08T07:13:53.058Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
 				<div class="post_info_cat">
 					<span>
-											<a href="https://platum.kr/event">Event</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup">Startup</a>
+											<a href="https://platum.kr/business">Business</a>
 										</span>
 				</div>
 			-->

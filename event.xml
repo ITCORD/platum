@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://platum.kr/event</id>
     <title>플래텀 ─ Event</title>
-    <updated>2024-07-08T02:03:30.721Z</updated>
+    <updated>2024-07-08T03:15:46.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://platum.kr/event</id>
         <link href="https://platum.kr/event"/>
-        <updated>2024-07-08T02:03:18.132Z</updated>
+        <updated>2024-07-08T03:15:34.725Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -17,6 +17,10 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
 			-->

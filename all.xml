@@ -2,41 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/platum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-07T23:14:20.952Z</updated>
+    <updated>2024-07-08T00:55:42.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Main)]]></title>
-        <id>https://ITCORD.github.io/platum/all.xml</id>
-        <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-07T23:12:14.760Z</updated>
-        <content type="html"><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/trends">Trends</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-			<script type="text/javascript" src="https://stats.wp.com/e-202427.js" async="async" defer="defer"></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
-	_stq.push([ 'clickTrackerInit', '39392177', '0' ]);
-</script>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (플래텀 ─ Entrepreneur)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-07T23:12:27.520Z</updated>
+        <updated>2024-07-08T00:53:53.358Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -52,7 +24,59 @@
 			<!-- 원본 소스 END -->
 
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-			<script type="text/javascript" src="https://stats.wp.com/e-202427.js" async="async" defer="defer"></script>
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
+	_stq.push([ 'clickTrackerInit', '39392177', '0' ]);
+</script>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Financing)]]></title>
+        <id>https://ITCORD.github.io/platum/all.xml</id>
+        <link href="https://ITCORD.github.io/platum/all.xml"/>
+        <updated>2024-07-08T00:54:16.882Z</updated>
+        <content type="html"><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/investment">Investment</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
+	_stq.push([ 'clickTrackerInit', '39392177', '0' ]);
+</script>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (플래텀 ─ China)]]></title>
+        <id>https://ITCORD.github.io/platum/all.xml</id>
+        <link href="https://ITCORD.github.io/platum/all.xml"/>
+        <updated>2024-07-08T00:54:29.062Z</updated>
+        <content type="html"><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/china">China</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
@@ -64,7 +88,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ Trends)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-07T23:13:17.333Z</updated>
+        <updated>2024-07-08T00:54:41.057Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -78,7 +102,7 @@
 			<!-- 원본 소스 END -->
 
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-			<script type="text/javascript" src="https://stats.wp.com/e-202427.js" async="async" defer="defer"></script>
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
@@ -87,10 +111,64 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (플래텀 ─ Workinsight)]]></title>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Marketing)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-07T23:13:30.536Z</updated>
+        <updated>2024-07-08T00:55:04.886Z</updated>
+        <content type="html"><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/marketing">Marketing</a>
+											&nbsp;/
+											<a href="https://platum.kr/trends">Trends</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
+	_stq.push([ 'clickTrackerInit', '39392177', '0' ]);
+</script>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Business)]]></title>
+        <id>https://ITCORD.github.io/platum/all.xml</id>
+        <link href="https://ITCORD.github.io/platum/all.xml"/>
+        <updated>2024-07-08T00:55:17.355Z</updated>
+        <content type="html"><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/business">Business</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
+	_stq.push([ 'clickTrackerInit', '39392177', '0' ]);
+</script>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (플래텀 ─ Event)]]></title>
+        <id>https://ITCORD.github.io/platum/all.xml</id>
+        <link href="https://ITCORD.github.io/platum/all.xml"/>
+        <updated>2024-07-08T00:55:29.820Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -99,18 +177,14 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
-											<a href="https://platum.kr/startup-3">Main</a>
-											&nbsp;/
-											<a href="https://platum.kr/trends">Trends</a>
-											&nbsp;/
-											<a href="https://platum.kr/workinsight">Workinsight</a>
+											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
 			-->
 			<!-- 원본 소스 END -->
 
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-			<script type="text/javascript" src="https://stats.wp.com/e-202427.js" async="async" defer="defer"></script>
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
@@ -122,7 +196,7 @@
         <title type="html"><![CDATA[undefined (플래텀 ─ Blockchain)]]></title>
         <id>https://ITCORD.github.io/platum/all.xml</id>
         <link href="https://ITCORD.github.io/platum/all.xml"/>
-        <updated>2024-07-07T23:14:20.385Z</updated>
+        <updated>2024-07-08T00:55:41.465Z</updated>
         <content type="html"><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
@@ -138,7 +212,7 @@
 			<!-- 원본 소스 END -->
 
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-			<script type="text/javascript" src="https://stats.wp.com/e-202427.js" async="async" defer="defer"></script>
+			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);

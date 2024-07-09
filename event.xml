@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://platum.kr/event</id>
-    <title>플래텀 ─ Event</title>
-    <updated>2024-07-09T14:13:01.234Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://platum.kr/wp-content/uploads/2020/11/platum_logo-removebg-preview-100x100.png</icon>
-    <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://platum.kr/event</id>
-        <link href="https://platum.kr/event"/>
-        <updated>2024-07-09T14:12:48.881Z</updated>
-        <content type="html"><![CDATA[<div class="post_header_title">	
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플래텀 ─ Event</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 09 Jul 2024 15:14:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한중 대학생 참여한 ‘창업 메이커 해커톤’ 열려… 한·중 스타트업 생태계 문화 교류 결실]]></title>
+            <link>https://platum.kr/archives/230860</link>
+            <guid>https://platum.kr/archives/230860</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
 			
 				   				<!-- 원본 소스 BEGIN -->
 			<!--	
@@ -25,12 +27,663 @@
 			<!-- 원본 소스 END -->
 
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-			<script type="text/javascript" src="https://stats.wp.com/e-202428.js" async="async" defer="defer"></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.7.3',blog:'39392177',post:'0',tz:'9',srv:'platum.kr'} ]);
-	_stq.push([ 'clickTrackerInit', '39392177', '0' ]);
-</script>
-</div>]]></content>
-    </entry>
-</feed>
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/china">China</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230860" title="한중 대학생 참여한 ‘창업 메이커 해커톤’ 열려… 한·중 스타트업 생태계 문화 교류 결실">한중 대학생 참여한 ‘창업 메이커 해커톤’ 열려… 한·중 스타트업 생태계 문화 교류 결실</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/min3hui4"><span class="gravatar"><img alt="허민혜" src="https://platum.kr/wp-content/uploads/2018/07/민혜-허_avatar_1530625610-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">허민혜</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230860">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230860">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/ww-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   울산창조경제혁신센터가 2024년 7월 3일부터 7월 5일까지 중국 우시 아이디어 가든 호텔(Wuxi Idea Garden Hotel)에서 글로벌 지역대학 메이커 해커톤(메이커톤)을 개최했다. 이번 행사는 울산광역시와 중국 우시 혜산구의 상호협력 하에 지원된 글로벌 창업[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230860">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230860#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/ww-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더인벤션랩-삼천리, 투자 연계형 스타트업 발굴 프로그램 공동개최]]></title>
+            <link>https://platum.kr/archives/230849</link>
+            <guid>https://platum.kr/archives/230849</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230849" title="더인벤션랩-삼천리, 투자 연계형 스타트업 발굴 프로그램 공동개최">더인벤션랩-삼천리, 투자 연계형 스타트업 발굴 프로그램 공동개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230849">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230849">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/unnamed-5-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   초기투자기관이자 팁스운영사인 더인벤션랩이 종합에너지그룹 삼천리와 투자 연계형 스타트업 발굴 프로그램 ‘S-Together’ 프로그램을 진행한다. 이 프로그램은 기후테크, 딥테크, 데모테크, K-컬처 등 4대 분야별 우수 스타트업을 발굴하여 상금과 함께 직접 투자하는 프[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230849">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230849#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/unnamed-5-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[“대·중견기업·스타트업 한 자리에”…제주형 오픈이노베이션 오픈그라운드 밋업 성료]]></title>
+            <link>https://platum.kr/archives/230842</link>
+            <guid>https://platum.kr/archives/230842</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230842" title="“대·중견기업·스타트업 한 자리에”…제주형 오픈이노베이션 오픈그라운드 밋업 성료">“대·중견기업·스타트업 한 자리에”…제주형 오픈이노베이션 오픈그라운드 밋업 성료</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230842">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230842">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/5-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   제주창조경제혁신센터가 7월 4일과 5일 양일간 제주 W360에서 ‘2024년 ’오픈그라운드 밋업’을 개최했다. ‘오픈그라운드’는 중소벤처기업부와 제주특별자치도가 주최하고 제주센터가 주관하는 제주형 오픈이노베이션 프로그램이다. 제주 오픈이노베이션 생태계를 활성[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230842">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230842#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/5-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로앤컴퍼니 “법률 AI 연구 개발에 집중 투자…미국 무대에 당당히 서겠다”]]></title>
+            <link>https://platum.kr/archives/230827</link>
+            <guid>https://platum.kr/archives/230827</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230827" title="로앤컴퍼니 “법률 AI 연구 개발에 집중 투자…미국 무대에 당당히 서겠다”">로앤컴퍼니 “법률 AI 연구 개발에 집중 투자…미국 무대에 당당히 서겠다”</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230827">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230827">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/1720495581149-640x427.jpeg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   로앤컴퍼니가 슈퍼로이어의 출시를 공식적으로 발표하는 기자간담회를 9일 개최하고, 인공지능(AI)을 중심으로 한 법률 서비스의 글로벌 시장 진출에 대한 확고한 의지를 표명했다. 슈퍼로이어(SuperLawyer)는 로앤컴퍼니가 국내 최초로 선보인 법률가를 위한 AI 어시스[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230827">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230827#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/1720495581149-640x427.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울창조경제혁신센터, 2024년 두 번째 오픈이노베이션 토크쇼 개최]]></title>
+            <link>https://platum.kr/archives/230819</link>
+            <guid>https://platum.kr/archives/230819</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230819" title="서울창조경제혁신센터, 2024년 두 번째 오픈이노베이션 토크쇼 개최">서울창조경제혁신센터, 2024년 두 번째 오픈이노베이션 토크쇼 개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230819">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230819">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/2024-1-640x427.png" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   서울창조경제혁신센터가 CJ제일제당, 신세계푸드, 풀무원과 함께 오픈이노베이션 토크쇼 ‘스타트업 오픈 안테나’두 번째 이야기를 개최한다. ‘스타트업 오픈 안테나’는 국내 오픈이노베이션을 수행하는 주요 대기업, 대표 협력 스타트업이 오픈이노베이션 관련 경험 및 조언, 차년[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230819">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230819#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/2024-1-640x427.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스파크랩, 초기 스타트업 육성 위한 ‘배치 프로그램 23기’ 5개사 선정]]></title>
+            <link>https://platum.kr/archives/230796</link>
+            <guid>https://platum.kr/archives/230796</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230796" title="스파크랩, 초기 스타트업 육성 위한 ‘배치 프로그램 23기’ 5개사 선정">스파크랩, 초기 스타트업 육성 위한 ‘배치 프로그램 23기’ 5개사 선정</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230796">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230796">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/sparklabs_batch23-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   글로벌 액셀러레이터 스파크랩이 국내 초기 스타트업들의 성장을 지원하는 ‘배치 프로그램 23기’에 참여할 5개사를 선정했다. 이번 배치 프로그램 23기에는 총 300여개 초기 스타트업이 지원, 혁신 기술을 활용하거나 자체 개발한 솔루션으로 사회 구조적 문제를 개선하는 동[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230796">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230796#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/sparklabs_batch23-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지역 창업 생태계 활성화 강화 위한 ‘비즈니스 트립 in 전북’ 대단원]]></title>
+            <link>https://platum.kr/archives/230773</link>
+            <guid>https://platum.kr/archives/230773</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230773" title="지역 창업 생태계 활성화 강화 위한 ‘비즈니스 트립 in 전북’ 대단원">지역 창업 생태계 활성화 강화 위한 ‘비즈니스 트립 in 전북’ 대단원</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/victory_k_moon"><span class="gravatar"><img alt="김 문선" src="https://platum.kr/wp-content/uploads/2022/07/김-문선_avatar_1657641427-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김 문선</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230773">Posted On 2024/07/08</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230773">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/unnamed-5-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   코리아스타트업포럼(이하 코스포)이 4일부터 6일까지 2박3일간 전북특별자치도에서 개최한 비즈니스 트립이 마무리됐다. ‘창업가들이 바라보는 스타트업, 로컬, 연대의 미래’를 주제로 한 이번 비즈니스 트립은 코스포의 연간 대표 멤버십 프로그램인 워크숍의 일환으로 진행됐다.[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230773">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230773#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/unnamed-5-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창립 21주년 ‘씨엔티테크’, 스타트업 지식포럼 ‘C-forum’ 개최]]></title>
+            <link>https://platum.kr/archives/230769</link>
+            <guid>https://platum.kr/archives/230769</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230769" title="창립 21주년 ‘씨엔티테크’, 스타트업 지식포럼 ‘C-forum’ 개최">창립 21주년 ‘씨엔티테크’, 스타트업 지식포럼 ‘C-forum’ 개최</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230769">Posted On 2024/07/08</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230769">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/cnt-1-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   씨엔티테크가 지난 7월 4일 서울 강남구 건설회관에서 창립 21주년을 맞아 ‘스타트업 생태계, 투자자의 생각을 읽어라’를 주제로 스타트업 지식포럼 C-Forum(C-포럼)을 개최하였다. 이번 행사는 작년에 이어 두번째로 씨엔티테크가 개최한 컨퍼런스[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230769">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230769#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/cnt-1-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴업스타즈 2024, ‘역대 최다’ 1,208개 스타트업 지원]]></title>
+            <link>https://platum.kr/archives/230760</link>
+            <guid>https://platum.kr/archives/230760</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230760" title="컴업스타즈 2024, ‘역대 최다’ 1,208개 스타트업 지원">컴업스타즈 2024, ‘역대 최다’ 1,208개 스타트업 지원</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/mj-kim"><span class="gravatar"><img alt="김민정" src="https://platum.kr/wp-content/uploads/2019/05/김민정_avatar_1557275307-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">김민정</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230760">Posted On 2024/07/08</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230760">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/53316613952_6a53dd672f_b-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   글로벌 스타트업 페스티벌 ‘컴업(COMEUP)’ 주요 이벤트인 ‘컴업스타즈(COMEUP Stars) 2024’에 역대 최다인 1,208개사가 지원했다. 컴업스타즈 모집은 6월 3일부터 7월 5일까지 약 한 달간 진행됐으며, 참가신청서 마감 결과 1,208개사가 지원한 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230760">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230760#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/53316613952_6a53dd672f_b-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민간 주도 스타트업 페스티벌 ‘V-서밋’ 8월 강릉에서 열린다]]></title>
+            <link>https://platum.kr/archives/230737</link>
+            <guid>https://platum.kr/archives/230737</guid>
+            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup">Startup</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup">Startup</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230737" title="민간 주도 스타트업 페스티벌 ‘V-서밋’ 8월 강릉에서 열린다">민간 주도 스타트업 페스티벌 ‘V-서밋’ 8월 강릉에서 열린다</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230737">Posted On 2024/07/05</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230737">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/unnamed-4-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   오는 8월 28일부터 30일까지 3일간 강릉 일대에서 스타트업이 직접 기획하고 추진하는 민간향 스타트업 페스티벌 ‘V-Summit(V-서밋)’이 열린다. 이번 행사는 2천여 스타트업과 2백여 명의 액셀러레이터 투자심사역 및 벤처투자자들이 참여하며,[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230737">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230737#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/unnamed-4-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -4,7 +4,7 @@
         <title>플래텀 ─ Event</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 23:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 00:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -229,6 +231,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
@@ -408,6 +412,71 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2024/07/sparklabs_batch23-640x427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 데이터안심구역 활용 공동 경진대회 참가자 모집]]></title>
+            <link>https://platum.kr/archives/230892</link>
+            <guid>https://platum.kr/archives/230892</guid>
+            <pubDate>Wed, 10 Jul 2024 00:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post_header_title">	
+			
+				   				<!-- 원본 소스 BEGIN -->
+			<!--	
+				<div class="post_info_cat">
+					<span>
+											<a href="https://platum.kr/event">Event</a>
+										</span>
+				</div>
+			-->
+			<!-- 원본 소스 END -->
+
+			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
+								<div class="post_info_cat">
+						<span>
+					    					        <a href="https://platum.kr/event">Event</a>
+					    						</span>
+					</div>
+						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
+						      	<h5><a href="https://platum.kr/archives/230892" title="2024 데이터안심구역 활용 공동 경진대회 참가자 모집">2024 데이터안심구역 활용 공동 경진대회 참가자 모집</a></h5>
+			      	<div class="post_detail post_date">
+			      		<span class="post_info_author">
+														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
+										      		</span>
+			      		<span class="post_info_date">
+			      			<a href="https://platum.kr/archives/230892">Posted On 2024/07/09</a>
+			      		</span>
+				  	</div>
+			   </div>
+			   
+			   <br class="clear">
+	    	
+	    						
+				    <div class="post_img">
+				        <a href="https://platum.kr/archives/230892">
+				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/2024-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
+					    </a>
+				    </div>
+				
+							   
+			   	<br class="clear">
+				<!-- 원본 소스 BEGIN -->
+								<!-- 원본 소스 END -->
+
+			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
+			   과학기술정보통신부가 주최하고 전북특별자치도, 국민연금, 전북창조경제혁신센터 등 7개 기관이 공동 주관하는 ‘2024년 데이터안심구역 활용 공동 경진대회’가 시작된다. 지난해에 이어 두 번째로 열리는 이번 대회에서는 데이터 안심구역 지정기관 간 분야별 전문성을 바탕으로 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   <br class="clear">
+			    
+			   <div class="post_button_wrapper">
+			   <a class="readmore" href="https://platum.kr/archives/230892">Continue Reading</a>
+			   </div>
+			    
+			   <div class="post_info_comment">
+				<a href="https://platum.kr/archives/230892#respond"><i class="fa fa-commenting"></i>0</a>
+				</div>
+				
+							    				
+				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
+            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/2024-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지역 창업 생태계 활성화 강화 위한 ‘비즈니스 트립 in 전북’ 대단원]]></title>
@@ -615,75 +684,6 @@
 							    				
 				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
             <enclosure url="https://platum.kr/wp-content/uploads/2024/07/53316613952_6a53dd672f_b-640x427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민간 주도 스타트업 페스티벌 ‘V-서밋’ 8월 강릉에서 열린다]]></title>
-            <link>https://platum.kr/archives/230737</link>
-            <guid>https://platum.kr/archives/230737</guid>
-            <pubDate>Tue, 09 Jul 2024 15:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post_header_title">	
-			
-				   				<!-- 원본 소스 BEGIN -->
-			<!--	
-				<div class="post_info_cat">
-					<span>
-											<a href="https://platum.kr/event">Event</a>
-											&nbsp;/
-											<a href="https://platum.kr/startup">Startup</a>
-										</span>
-				</div>
-			-->
-			<!-- 원본 소스 END -->
-
-			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
-								<div class="post_info_cat">
-						<span>
-					    					        <a href="https://platum.kr/event">Event</a>
-					    					        &nbsp;/
-					    					        <a href="https://platum.kr/startup">Startup</a>
-					    						</span>
-					</div>
-						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/230737" title="민간 주도 스타트업 페스티벌 ‘V-서밋’ 8월 강릉에서 열린다">민간 주도 스타트업 페스티벌 ‘V-서밋’ 8월 강릉에서 열린다</a></h5>
-			      	<div class="post_detail post_date">
-			      		<span class="post_info_author">
-														<a href="https://platum.kr/archives/author/platum"><span class="gravatar"><img alt="Platum" src="https://platum.kr/wp-content/uploads/2013/01/Platum_avatar.jpeg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">Platum</span></a>
-										      		</span>
-			      		<span class="post_info_date">
-			      			<a href="https://platum.kr/archives/230737">Posted On 2024/07/05</a>
-			      		</span>
-				  	</div>
-			   </div>
-			   
-			   <br class="clear">
-	    	
-	    						
-				    <div class="post_img">
-				        <a href="https://platum.kr/archives/230737">
-				        					        	<img src="https://platum.kr/wp-content/uploads/2024/07/unnamed-4-640x427.jpg" alt="" class="" style="width:640px;height:427px;">
-					    </a>
-				    </div>
-				
-							   
-			   	<br class="clear">
-				<!-- 원본 소스 BEGIN -->
-								<!-- 원본 소스 END -->
-
-			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   오는 8월 28일부터 30일까지 3일간 강릉 일대에서 스타트업이 직접 기획하고 추진하는 민간향 스타트업 페스티벌 ‘V-Summit(V-서밋)’이 열린다. 이번 행사는 2천여 스타트업과 2백여 명의 액셀러레이터 투자심사역 및 벤처투자자들이 참여하며,[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
-			   <br class="clear">
-			    
-			   <div class="post_button_wrapper">
-			   <a class="readmore" href="https://platum.kr/archives/230737">Continue Reading</a>
-			   </div>
-			    
-			   <div class="post_info_comment">
-				<a href="https://platum.kr/archives/230737#respond"><i class="fa fa-commenting"></i>0</a>
-				</div>
-				
-							    				
-				<br class="clear"><hr class="post_divider"><hr class="post_divider double">]]></content:encoded>
-            <enclosure url="https://platum.kr/wp-content/uploads/2024/07/unnamed-4-640x427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

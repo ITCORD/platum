@@ -4,7 +4,7 @@
         <title>플래텀 ─ Trends</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 02:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 03:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,7 +73,7 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2024/07/ww-2-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정부, 티몬·위메프 피해 중소기업 지원 나서… 5600억 규모 금융 지원 등 종합 대책 발표]]></title>
+            <title><![CDATA[티몬·위메프, 기업회생 신청… 정부, 피해 중소기업 지원 나서]]></title>
             <link>https://platum.kr/archives/231961</link>
             <guid>https://platum.kr/archives/231961</guid>
             <pubDate>Mon, 29 Jul 2024 03:14:42 GMT</pubDate>
@@ -83,6 +83,8 @@
 			<!--	
 				<div class="post_info_cat">
 					<span>
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/trends">Trends</a>
 										</span>
 				</div>
@@ -92,11 +94,13 @@
 			<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 BEGIN -->
 								<div class="post_info_cat">
 						<span>
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/trends">Trends</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/231961" title="정부, 티몬·위메프 피해 중소기업 지원 나서… 5600억 규모 금융 지원 등 종합 대책 발표">정부, 티몬·위메프 피해 중소기업 지원 나서… 5600억 규모 금융 지원 등 종합 대책 발표</a></h5>
+						      	<h5><a href="https://platum.kr/archives/231961" title="티몬·위메프, 기업회생 신청… 정부, 피해 중소기업 지원 나서">티몬·위메프, 기업회생 신청… 정부, 피해 중소기업 지원 나서</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/kurutoi"><span class="gravatar"><img alt="손 요한" src="https://platum.kr/wp-content/uploads/2023/06/손-요한_avatar_1686133467-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">손 요한</span></a>
@@ -122,7 +126,7 @@
 								<!-- 원본 소스 END -->
 
 			   <!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 BEGIN -->
-			   정부가 전자상거래 업체 티몬과 위메프의 상품 거래 대금 미지급으로 피해를 입은 중소기업과 소상공인을 위한 대규모 금융 지원 계획을 발표했다. 이는 최소 5600억원 규모의 긴급경영안정자금 공급과 기존 대출 및 보증의 만기 연장 등을 포함한다. 29일 정부서울청사에서 열[…]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
+			   티몬과 위메프가 대규모 소비자 피해와 정산·환불 지연 사태를 겪은 끝에 법원에 기업회생을 신청했다. 이는 두 회사가 자체적으로 재정 상황을 회복할 수 없는 상태에 이르렀음을 시사한다. 29일 서울회생법원에 따르면, 티몬과 위메프는 이날 기업회생을 신청했다. 두 회사는 […]				<!-- Greater China 카테고리 페이지 중국어 글자 수 자르기 END -->
 			   <br class="clear">
 			    
 			   <div class="post_button_wrapper">

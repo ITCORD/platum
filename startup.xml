@@ -4,7 +4,7 @@
         <title>플래텀 ─ Startup</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -418,6 +418,8 @@
 					<span>
 											<a href="https://platum.kr/event">Event</a>
 											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
+											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
 				</div>
@@ -428,6 +430,8 @@
 								<div class="post_info_cat">
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
@@ -475,7 +479,7 @@
             <enclosure url="https://platum.kr/wp-content/uploads/2024/09/mok-640x427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금융위원회, 혁신적 핀테크 기업 10개사 ‘K-Fintech 30’에 선정]]></title>
+            <title><![CDATA[금융위원회가 선정한 혁신 핀테크 기업 10개사]]></title>
             <link>https://platum.kr/archives/234076</link>
             <guid>https://platum.kr/archives/234076</guid>
             <pubDate>Thu, 05 Sep 2024 14:13:13 GMT</pubDate>
@@ -486,6 +490,8 @@
 				<div class="post_info_cat">
 					<span>
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 											&nbsp;/
 											<a href="https://platum.kr/startup">Startup</a>
 										</span>
@@ -498,11 +504,13 @@
 						<span>
 					    					        <a href="https://platum.kr/event">Event</a>
 					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
+					    					        &nbsp;/
 					    					        <a href="https://platum.kr/startup">Startup</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
-						      	<h5><a href="https://platum.kr/archives/234076" title="금융위원회, 혁신적 핀테크 기업 10개사 ‘K-Fintech 30’에 선정">금융위원회, 혁신적 핀테크 기업 10개사 ‘K-Fintech 30’에 선정</a></h5>
+						      	<h5><a href="https://platum.kr/archives/234076" title="금융위원회가 선정한 혁신 핀테크 기업 10개사">금융위원회가 선정한 혁신 핀테크 기업 10개사</a></h5>
 			      	<div class="post_detail post_date">
 			      		<span class="post_info_author">
 														<a href="https://platum.kr/archives/author/choi"><span class="gravatar"><img alt="최원희" src="https://platum.kr/wp-content/uploads/2021/07/최원희_avatar_1625374313-60x60.jpg" class="avatar avatar-60 photo" height="60" width="60"></span><span style="float:left; margin:0 12px 0 -2px;">최원희</span></a>

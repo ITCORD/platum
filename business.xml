@@ -4,7 +4,7 @@
         <title>플래텀 ─ Business</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 04:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 05:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,6 +220,8 @@
 											<a href="https://platum.kr/business">Business</a>
 											&nbsp;/
 											<a href="https://platum.kr/event">Event</a>
+											&nbsp;/
+											<a href="https://platum.kr/startup-3">Main</a>
 										</span>
 				</div>
 			-->
@@ -231,6 +233,8 @@
 					    					        <a href="https://platum.kr/business">Business</a>
 					    					        &nbsp;/
 					    					        <a href="https://platum.kr/event">Event</a>
+					    					        &nbsp;/
+					    					        <a href="https://platum.kr/startup-3">Main</a>
 					    						</span>
 					</div>
 						<!-- 카테고리 페이지 PC 접근 시 콘텐츠 카테고리 정보 노출 END -->
